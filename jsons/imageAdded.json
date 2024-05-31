@@ -1,0 +1,80 @@
+[
+  {
+    "timest": "2024-05-31T09:21:34.949479",
+    "tokenName": "stickmanpride",
+    "tokenTicker": "$STICKY",
+    "totalSupply": 999999994.0714,
+    "marketCap": 139681.51609865305,
+    "totalLiquidity": "38772.80837185132",
+    "poolAddress": "4XySn3e7NDXdF4Q4ThoPPfjSxQt84KYWkBg2HWsQjnfo",
+    "tokenAddress": "8tgtGXhYRGKtaF4CPeVzSQpM3cUXBZ8P4ZW4hEhyLWZZ",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8tgtGXhYRGKtaF4CPeVzSQpM3cUXBZ8P4ZW4hEhyLWZZ.png?size=lg&key=772551",
+    "socials": null,
+    "pumpfun": true,
+    "timestamp": 1717172568917
+  },
+  {
+    "timest": "2024-05-31T09:23:58.357126",
+    "tokenName": "US Dog",
+    "tokenTicker": "USDOG",
+    "totalSupply": 999996962.8515599,
+    "marketCap": 7977.915235329094,
+    "totalLiquidity": "4324.88762110094",
+    "poolAddress": "8ytbm6h1KresL98D8tkCceeKiRtqtbmnCdGs7BWBjYRa",
+    "tokenAddress": "B8dFqeM6bH5d5zPJqL1zwnffdC3EY3humm8J8aBcppYu",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B8dFqeM6bH5d5zPJqL1zwnffdC3EY3humm8J8aBcppYu.png?size=lg&key=7d6227",
+    "socials": {
+      "website": "http://usdogsol.vip/",
+      "twitter": "https://twitter.com/usdogsol",
+      "telegram": "https://t.me/USDogsolana"
+    },
+    "pumpfun": false,
+    "timestamp": 1717172647011
+  },
+  {
+    "timest": "2024-05-31T09:24:09.700683",
+    "tokenName": "FUCK NEW YORK JURY",
+    "tokenTicker": "FUCKJURY",
+    "totalSupply": 999999020.8213595,
+    "marketCap": 18149.317912877155,
+    "totalLiquidity": "2696.3644585493967",
+    "poolAddress": "4HM3yxv7YdsMdbgBrwtLA44pYGH9qRgvjvYvBGKhe8hN",
+    "tokenAddress": "5ZCPTRwfqpUFeaZw1vKSg3AzrN2TNzfdh2j8wGpGmPpA",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5ZCPTRwfqpUFeaZw1vKSg3AzrN2TNzfdh2j8wGpGmPpA.png?size=lg&key=d0df67",
+    "socials": {
+      "website": "https://fjury.xyz/",
+      "twitter": "https://twitter.com/fucknewyorksol",
+      "telegram": "https://t.me/fucknewyorkjury"
+    },
+    "pumpfun": false,
+    "timestamp": 1717172659208
+  },
+  {
+    "timest": "2024-05-31T09:24:36.935384",
+    "tokenName": "Bruce Willy",
+    "tokenTicker": "WILLY",
+    "totalSupply": 1000000000,
+    "marketCap": 21983.827473148434,
+    "totalLiquidity": "5391.894356559994",
+    "poolAddress": "5aJb3E6FnHqjtWBTEBFiREhWdshBiTSMcJXyVJ59L1Yo",
+    "tokenAddress": "79C7kx42uQofHCUBv1zZqWoX4GDrJc5VaoqsJC1veBBR",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/79C7kx42uQofHCUBv1zZqWoX4GDrJc5VaoqsJC1veBBR.png?size=lg&key=2bb937",
+    "socials": null,
+    "pumpfun": false,
+    "timestamp": 1717172685499
+  },
+  {
+    "timest": "2024-05-31T09:24:45.964005",
+    "tokenName": "TODEX",
+    "tokenTicker": "TDX",
+    "totalSupply": 7000000000,
+    "marketCap": 0,
+    "totalLiquidity": null,
+    "poolAddress": null,
+    "tokenAddress": "4CdtFXdHLabVAnpzxKbc48j2TQfifumq634FdhKq6dse",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4CdtFXdHLabVAnpzxKbc48j2TQfifumq634FdhKq6dse.png?size=lg&key=200b1b",
+    "socials": null,
+    "pumpfun": false,
+    "timestamp": 1717172696718
+  }
+]

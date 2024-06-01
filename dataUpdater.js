@@ -16,7 +16,6 @@ class DataUpdater {
 
     init() {
         this.startUpdating();
-        this.startCleanup();
     }
 
     loadReleasedCoins() {
@@ -82,23 +81,6 @@ class DataUpdater {
     startUpdating() {
         this.updateData();
         setInterval(() => this.updateData(), this.updateInterval);
-    }
-
-    cleanupOldCoins() {
-        const now = Date.now();
-        const thirtyMinutes = 30 * 60 * 1000;
-        for (const [coinId, coin] of Object.entries(this.coins)) {
-            if (now - coin.timestamp > thirtyMinutes) {
-                delete this.coins[coinId];
-                this.publishedCoins.delete(coin.tokenAddress);
-            }
-        }
-        this.saveDataToFile();
-    }
-
-    startCleanup() {
-        this.cleanupOldCoins();
-        setInterval(() => this.cleanupOldCoins(), this.cleanupInterval);
     }
 }
 

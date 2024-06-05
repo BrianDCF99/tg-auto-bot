@@ -63,13 +63,15 @@ const getTypeWithEmoji = (type) => {
 };
 
 const getPumpFun = (pumpFun) => {
-    if(pumpFun.endsWith('pump')) {
+    if(pumpFun === 'true') {
         return `\n🚀🚀🚀  *PUMP FUN*  🚀🚀🚀`;
     }
     return '';
 }
 
-
+const imgSrc = (imgURL) => imgURL.includes('pinata.cloud')
+? imgURL.replace('gateway.pinata.cloud', 'cloudflare-ipfs.com')
+: imgURL;
 
 class CoinData {
     constructor(filePath, type) {
@@ -106,7 +108,7 @@ class CoinData {
         const socialLinks = generateSocialLinks(data.socials);
         const separator = socialLinks ? `${socialLinks}` : '';
         return `
-${getTypeWithEmoji(this.type)}${getPumpFun(data.tokenAddress)}
+${getTypeWithEmoji(this.type)}${getPumpFun(data.pumpFun)}
 *Name:* ${escapeMarkdownV2(data.tokenName)}
 *Ticker:* ${escapeMarkdownV2(data.tokenTicker)}
 *MC:* ${escapeMarkdownV2(formatNumber(data.marketCap))}
@@ -128,7 +130,7 @@ ${createSeparator()}
                 try {
                     for (const userId of userIds) {
                         // Send the image first
-                        await bot.api.sendPhoto(userId, token.img_url);
+                        await bot.api.sendPhoto(userId, imgSrc(token.img_url));
 
                         // Send the type and info message with disabled web page preview
                         const infoMessage = this.formatInfoMessage(token);

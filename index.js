@@ -49,8 +49,8 @@ const coinDataImageAdded = new CoinData('./jsons/imageAdded.json', 'Image Added'
 const coinDataDexPaid = new CoinData('./jsons/upcomingImages.json', 'Upcoming Image');
 
 // Create instances of DataUpdater for Image Added and Upcoming Images
-const imageAddedUpdater = new DataUpdater('http://ec2-18-196-105-255.eu-central-1.compute.amazonaws.com:8083/', './jsons/imageAdded.json', './jsons/imageAdded_sent.json');
-const upcomingImagesUpdater = new DataUpdater('http://ec2-18-196-105-255.eu-central-1.compute.amazonaws.com:8083/dex', './jsons/upcomingImages.json', './jsons/upcomingImages_sent.json');
+const imageAddedUpdater = new DataUpdater('https://degenautobot.xyz/', './jsons/imageAdded.json', './jsons/imageAdded_sent.json');
+const upcomingImagesUpdater = new DataUpdater('https://degenautobot.xyz/dex', './jsons/upcomingImages.json', './jsons/upcomingImages_sent.json');
 
 // Handle the /start command
 bot.command('start', async (ctx) => {

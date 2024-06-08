@@ -69,6 +69,22 @@ const getPumpFun = (pumpFun) => {
     return '';
 }
 
+const getMintFreeze = (mintFreeze) => {
+    if(mintFreeze === 'yes') {
+        return `\nMint/Freeze Auth Disabled: ✅`;
+    }else{
+        return '\nMint/Freeze Auth Disabled: ❌';
+    }
+}
+
+const getBurn = (burn) => {
+    if(burn === 'yes') {
+        return `\nLiquidity Burned: ✅`;
+    }else{
+        return '\nLiquidty Burned: ❌';
+    }
+}
+
 const imgSrc = (imgURL) => imgURL.includes('pinata.cloud')
 ? imgURL.replace('gateway.pinata.cloud', 'cloudflare-ipfs.com')
 : imgURL;
@@ -113,7 +129,7 @@ ${getTypeWithEmoji(this.type)}${getPumpFun(data.pumpFun)}
 *Ticker:* ${escapeMarkdownV2(data.tokenTicker)}
 *MC:* ${escapeMarkdownV2(formatNumber(data.marketCap))}
 *Liq:* ${escapeMarkdownV2(formatNumber(data.totalLiquidity))}
-*Address:* \`${escapeMarkdownV2(data.tokenAddress)}\`${separator}
+*Address:* \`${escapeMarkdownV2(data.tokenAddress)}\`${getMintFreeze(data.mintFreeze)}${getBurn(data.liquidity_burned)}${separator}
 ${createSeparator()}
         `;
     }

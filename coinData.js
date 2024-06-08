@@ -63,31 +63,31 @@ const getTypeWithEmoji = (type) => {
 };
 
 const getPumpFun = (pumpFun) => {
-    if(pumpFun === true) {
+    if (pumpFun === true) {
         return `\n🚀🚀🚀  *PUMP FUN*  🚀🚀🚀`;
     }
     return '';
 }
 
 const getMintFreeze = (mintFreeze) => {
-    if(mintFreeze === true) {
+    if (mintFreeze === true) {
         return `\nMint/Freeze Auth Disabled: ✅`;
-    }else{
+    } else {
         return '\nMint/Freeze Auth Disabled: ❌';
     }
 }
 
 const getBurn = (burn) => {
-    if(burn === 'yes') {
+    if (burn === 'no') {
         return `\nLiquidity Burned: ✅`;
-    }else{
+    } else {
         return '\nLiquidty Burned: ❌';
     }
 }
 
 const imgSrc = (imgURL) => imgURL.includes('pinata.cloud')
-? imgURL.replace('gateway.pinata.cloud', 'cloudflare-ipfs.com')
-: imgURL;
+    ? imgURL.replace('gateway.pinata.cloud', 'cloudflare-ipfs.com')
+    : imgURL;
 
 class CoinData {
     constructor(filePath, type) {
@@ -119,7 +119,7 @@ class CoinData {
         fs.writeFileSync(sentCoinsFilePath, JSON.stringify([...this.sentCoins], null, 2));
     }
 
-    // Method to format the info message
+    // Method to format the info message as caption
     formatInfoMessage(data) {
         const socialLinks = generateSocialLinks(data.socials);
         const separator = socialLinks ? `${socialLinks}` : '';
@@ -131,7 +131,7 @@ ${getTypeWithEmoji(this.type)}${getPumpFun(data.pumpFun)}
 *Liq:* ${escapeMarkdownV2(formatNumber(data.totalLiquidity))}
 *Address:* \`${escapeMarkdownV2(data.tokenAddress)}\`${getMintFreeze(data.mintFreeze)}${getBurn(data.liquidity_burned)}${separator}
 ${createSeparator()}
-        `;
+        `.trim();
     }
 
     // Method to send the messages and photos for all tokens
@@ -145,12 +145,13 @@ ${createSeparator()}
 
                 try {
                     for (const userId of userIds) {
-                        // Send the image first
-                        await bot.api.sendPhoto(userId, imgSrc(token.img_url));
-
-                        // Send the type and info message with disabled web page preview
-                        const infoMessage = this.formatInfoMessage(token);
-                        await bot.api.sendMessage(userId, infoMessage, { parse_mode: 'MarkdownV2', disable_web_page_preview: true });
+                        // Send the image with caption
+                        const caption = this.formatInfoMessage(token);
+                        await bot.api.sendPhoto(userId, imgSrc(token.img_url), {
+                            caption,
+                            parse_mode: 'MarkdownV2',
+                            disable_web_page_preview: true,
+                        });
                     }
                 } catch (error) {
                     console.error('Error broadcasting message:', error);

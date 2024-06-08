@@ -1,33 +1,18 @@
 [
   {
-    "timest": 1717866373732,
+    "timest": 1717866612139,
     "tokenAddress": "6UmiZpbeSRuZy5785DNTdNd2NDwbmJ7JTfHVDjcxDs13",
     "tokenTicker": "SOLGOMEZ",
     "tokenName": "SOLANA GOMEZ",
     "poolAddress": "A4V3aGSAT9RYKs7KA2WsP1WBiMf5AVqHbWdf9EG2osZ8",
-    "totalLiquidity": 3182.181148430159,
+    "totalLiquidity": 4773.38433654703,
     "liquidity_burned": "no",
     "mintfreeze": false,
-    "marketCap": 3571.950063307466,
+    "marketCap": 8026.4173946725705,
     "img_url": "https://ipfs.io/ipfs/QmTetjV9iYCpRh3H1rrFgiyK8tEHL8b7JF9kDTmG9hfWWd",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867287735
-  },
-  {
-    "timest": 1717866418579,
-    "tokenAddress": "DTLCJV2imff56YcXXSn3xEK35yEwTzx2GcGt4C76VjNo",
-    "tokenTicker": "MAD",
-    "tokenName": "MADCOIN",
-    "poolAddress": "5yaMzV4LMnjHharwogb4u93Lv8XeLKDA6rXXDxwnA3Pp",
-    "totalLiquidity": 2670.083915709416,
-    "liquidity_burned": "yes",
-    "mintfreeze": false,
-    "marketCap": 36370.258776002185,
-    "img_url": "https://gateway.irys.xyz/00iJDKOsuGZy2lDZhJ3sQhcjZfkX8oVlBtP-oWKzU1g",
-    "socials": null,
-    "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717866614805,
@@ -45,7 +30,7 @@
       "telegram": "https://t.me/SheikhTateSpl"
     },
     "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717866616721,
@@ -59,7 +44,7 @@
     "img_url": "https://gateway.irys.xyz/XQ8jdNQMKwrq18-KqAfl3TCeVmkEFT343EM866bFuxg",
     "socials": {},
     "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717866619164,
@@ -73,7 +58,7 @@
     "img_url": "https://cf-ipfs.com/ipfs/QmVXSXuaEz9tG5yT4sEcm49Juu62wQrCrykjk9vjXX8NF2",
     "socials": null,
     "pumpfun": true,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717866681330,
@@ -88,7 +73,7 @@
     "img_url": "https://media.discordapp.net/attachments/1216859035266191511/1249038728656191549/IMAGE_2024-06-08_203318.png?ex=6665d976&is=666487f6&hm=7b1e3f92ff60085450ebccd51acc409fbf6600b5b06b19f0fbbcd220d6085035&=&format=webp&quality=lossless&width=652&height=650",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717866837531,
@@ -106,7 +91,7 @@
       "telegram": "https://t.me/realnbailey"
     },
     "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717866851139,
@@ -125,7 +110,7 @@
       "telegram": "https://t.me/shadesoftate"
     },
     "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717866900238,
@@ -140,7 +125,7 @@
     "img_url": "",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717866951285,
@@ -154,7 +139,7 @@
     "img_url": "https://i.imgur.com/yRUWYxL.png",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717866964081,
@@ -168,7 +153,7 @@
     "img_url": "https://cf-ipfs.com/ipfs/QmefFGaYetSTNsz5azmWkbKsHEG2WqmyHzv5FXxBEhNkdc",
     "socials": null,
     "pumpfun": true,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717867101977,
@@ -183,7 +168,7 @@
     "img_url": "https://quicknode.quicknode-ipfs.com/ipfs/QmWjJpDQ7uKQrjTQBYVfxGZV3YeXRRFebEEP2xBFq64FYg",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717867181851,
@@ -197,7 +182,7 @@
     "img_url": "https://cf-ipfs.com/ipfs/QmeXkHqYgq4UxXoZVtHXGF1kC7zk7KTFfbEN7mzCpFNARW",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717867237253,
@@ -212,7 +197,7 @@
     "img_url": "https://gateway.irys.xyz/fcMtSW4bVDjGqoQxdlaka7z6pah4QZkQMcrgzOBNCTk",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
   },
   {
     "timest": 1717867238012,
@@ -231,6 +216,55 @@
       "telegram": "https://t.me/AndrewTateMom"
     },
     "pumpfun": false,
-    "timestamp": 1717867287735
+    "timestamp": 1717867469362
+  },
+  {
+    "timest": 1717867404368,
+    "tokenAddress": "3punTTUho5S9aB83UztTEo4FikExaU6KsfNujYYFXqUu",
+    "tokenTicker": "TIF",
+    "tokenName": "TETE IS FINE",
+    "poolAddress": "3fgwefv5dbmLExDt6Mf7Q3RzGGPcZ8MqshWiiRBK4Zon",
+    "totalLiquidity": 6018.64234993073,
+    "liquidity_burned": "yes",
+    "mintfreeze": false,
+    "marketCap": 20810.05292386805,
+    "img_url": "https://gateway.irys.xyz/TaealAsBXQ04xE1stIjZliTUdR5AMcgwHDbu8PMEEMY",
+    "socials": null,
+    "pumpfun": false,
+    "timestamp": 1717867469362
+  },
+  {
+    "timest": 1717867648800,
+    "tokenAddress": "2nxyyMUaNvQpPX34uNw1vneAmG5KsWyTXhbdHjGnPRzU",
+    "tokenTicker": "TATEPONK",
+    "tokenName": "The Tates meet Ponke",
+    "poolAddress": "BxDNLNxo8R9MPkSdYcZ523aJSfQ61Y8fBPjYNS6wcMgD",
+    "totalLiquidity": 219151.16992251438,
+    "liquidity_burned": "yes",
+    "mintfreeze": false,
+    "marketCap": 24996908.89671472,
+    "img_url": "https://gateway.irys.xyz/3_Giah_tO6bexGh7Zrq3eayFesgP0yQGOQHGS0Nb6pY",
+    "socials": null,
+    "pumpfun": false,
+    "timestamp": 1717867649318
+  },
+  {
+    "timest": 1717867651174,
+    "tokenAddress": "4TFHi5fgGuwyx3pq7kCWbpf6zGhma9rExeeAqwDB6nin",
+    "tokenTicker": "PGPT",
+    "tokenName": "PixelGPT",
+    "poolAddress": "8VxH3zWkeUWmi3WoivfViizL8ZzmtQQbZo54iMuGbKoD",
+    "totalLiquidity": 25109.251733836238,
+    "liquidity_burned": "no",
+    "mintfreeze": false,
+    "marketCap": 38503.03198744214,
+    "img_url": "https://photos.pinksale.finance/file/pinksale-logo-upload/1717494927548-372aa1d5823e9b4b1d5a413b4f2a59d1.png",
+    "socials": {
+      "telegram": "https://t.me/pixgpt_portal",
+      "twitter": "https://twitter.com/pixelgptai",
+      "website": "https://pixelgpt.ai"
+    },
+    "pumpfun": false,
+    "timestamp": 1717867651277
   }
 ]

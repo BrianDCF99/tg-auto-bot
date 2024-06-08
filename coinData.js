@@ -63,14 +63,14 @@ const getTypeWithEmoji = (type) => {
 };
 
 const getPumpFun = (pumpFun) => {
-    if(pumpFun === 'true') {
+    if(pumpFun === true) {
         return `\n🚀🚀🚀  *PUMP FUN*  🚀🚀🚀`;
     }
     return '';
 }
 
 const getMintFreeze = (mintFreeze) => {
-    if(mintFreeze === 'yes') {
+    if(mintFreeze === true) {
         return `\nMint/Freeze Auth Disabled: ✅`;
     }else{
         return '\nMint/Freeze Auth Disabled: ❌';

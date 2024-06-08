@@ -389,5 +389,83 @@
   "FWAVdhiSs9ttL8LoKeoRaqtxYfcF2Gtmq9HrrGHu8SEk",
   "54f9u9Ejt8zdrJJckF9fDMF91wzXZvvwoWNbHW35pump",
   "jDG4QghDWZqyW21ZXVWVSC7TTaz7eFKfjXQbiScJ7Nc",
-  "3punTTUho5S9aB83UztTEo4FikExaU6KsfNujYYFXqUu"
+  "3punTTUho5S9aB83UztTEo4FikExaU6KsfNujYYFXqUu",
+  {
+    "tokenName": null,
+    "tokenTicker": null,
+    "tokenAddress": "DZ4g5TD9PqqGFed9fx1oo53EFTNtP4dvXKyr2iPWMSEV",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DZ4g5TD9PqqGFed9fx1oo53EFTNtP4dvXKyr2iPWMSEV.png?size=lg&key=e6e403"
+  },
+  {
+    "tokenName": "Tates Dog 'G'",
+    "tokenTicker": "TDG",
+    "tokenAddress": "GhRHpG2bcsqT2LVtW93bm6Z2Tytu2gDM2e61asW45LhF",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GhRHpG2bcsqT2LVtW93bm6Z2Tytu2gDM2e61asW45LhF.png?size=lg&key=0c60d7"
+  },
+  {
+    "tokenName": "SOLANA GOMEZ",
+    "tokenTicker": "SOLGOMEZ",
+    "tokenAddress": "6UmiZpbeSRuZy5785DNTdNd2NDwbmJ7JTfHVDjcxDs13",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6UmiZpbeSRuZy5785DNTdNd2NDwbmJ7JTfHVDjcxDs13.png?size=lg&key=15f6c5"
+  },
+  {
+    "tokenName": "Long Doge",
+    "tokenTicker": "LOGE",
+    "tokenAddress": "TQsUhtj9otcTdye5aUc3pu27LBrvvph5pdw4XciawaQ",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/TQsUhtj9otcTdye5aUc3pu27LBrvvph5pdw4XciawaQ.png?size=lg&key=48738e"
+  },
+  {
+    "tokenName": "FLOKITA",
+    "tokenTicker": "FLOKITA",
+    "tokenAddress": "6iaoMhnsKoqe6oNsnj7iteTbyCjdv1DHvfhWGaAH6vJk",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6iaoMhnsKoqe6oNsnj7iteTbyCjdv1DHvfhWGaAH6vJk.png?size=lg&key=fbb54c"
+  },
+  {
+    "tokenName": "Game Over Matrix",
+    "tokenTicker": "GOM",
+    "tokenAddress": "6ckdjtKNhqHP9KL2UMd7N1aoj3SrbbHP1CPf57y3pump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6ckdjtKNhqHP9KL2UMd7N1aoj3SrbbHP1CPf57y3pump.png?size=lg&key=d9e7bc"
+  },
+  {
+    "tokenName": "BROTHERHOOD",
+    "tokenTicker": "BROHOOD",
+    "tokenAddress": "6w7SQ7mGYN9p5znDQwbNFyimWiL88y7d537f9qVMpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6w7SQ7mGYN9p5znDQwbNFyimWiL88y7d537f9qVMpump.png?size=lg&key=9762bf"
+  },
+  {
+    "tokenName": "GOOFS",
+    "tokenTicker": "GOOFS",
+    "tokenAddress": "5gg4qBjdw749C5mtewcWiXMxZDRGi4GZRr4yhUMTpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5gg4qBjdw749C5mtewcWiXMxZDRGi4GZRr4yhUMTpump.png?size=lg&key=7693db"
+  },
+  {
+    "tokenName": "Andrew Tate's MOM",
+    "tokenTicker": "EILEEN",
+    "tokenAddress": "5YyGAvh8mGXDAZiRTUk6Z2fZS24h3VtWT4vFQpHkKKA9",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5YyGAvh8mGXDAZiRTUk6Z2fZS24h3VtWT4vFQpHkKKA9.png?size=lg&key=761ea0"
+  },
+  {
+    "tokenName": "Real Nigger Bailey",
+    "tokenTicker": "RNB",
+    "tokenAddress": "FWAVdhiSs9ttL8LoKeoRaqtxYfcF2Gtmq9HrrGHu8SEk",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FWAVdhiSs9ttL8LoKeoRaqtxYfcF2Gtmq9HrrGHu8SEk.png?size=lg&key=a7ec15"
+  },
+  {
+    "tokenName": "Bull Pepe Open The Door",
+    "tokenTicker": "Bullpepe",
+    "tokenAddress": "54f9u9Ejt8zdrJJckF9fDMF91wzXZvvwoWNbHW35pump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/54f9u9Ejt8zdrJJckF9fDMF91wzXZvvwoWNbHW35pump.png?size=lg&key=6e2e23"
+  },
+  {
+    "tokenName": "Long Doge",
+    "tokenTicker": "LOGE",
+    "tokenAddress": "jDG4QghDWZqyW21ZXVWVSC7TTaz7eFKfjXQbiScJ7Nc",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/jDG4QghDWZqyW21ZXVWVSC7TTaz7eFKfjXQbiScJ7Nc.png?size=lg&key=48738e"
+  },
+  {
+    "tokenName": "TETE IS FINE",
+    "tokenTicker": "TIF",
+    "tokenAddress": "3punTTUho5S9aB83UztTEo4FikExaU6KsfNujYYFXqUu",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3punTTUho5S9aB83UztTEo4FikExaU6KsfNujYYFXqUu.png?size=lg&key=15286d"
+  }
 ]

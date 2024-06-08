@@ -70,7 +70,7 @@ const getPumpFun = (pumpFun) => {
 }
 
 const getMintFreeze = (mintFreeze) => {
-    if (mintFreeze === true) {
+    if (mintFreeze === false) {
         return `\nMint/Freeze Auth Disabled: ✅`;
     } else {
         return '\nMint/Freeze Auth Disabled: ❌';
@@ -78,7 +78,7 @@ const getMintFreeze = (mintFreeze) => {
 }
 
 const getBurn = (burn) => {
-    if (burn === 'no') {
+    if (burn === 'yes') {
         return `\nLiquidity Burned: ✅`;
     } else {
         return '\nLiquidty Burned: ❌';

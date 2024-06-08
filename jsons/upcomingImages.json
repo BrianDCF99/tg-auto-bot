@@ -1,53 +1,39 @@
 [
   {
-    "timest": 1717866612139,
+    "timest": 1717866825439,
     "tokenAddress": "6UmiZpbeSRuZy5785DNTdNd2NDwbmJ7JTfHVDjcxDs13",
     "tokenTicker": "SOLGOMEZ",
     "tokenName": "SOLANA GOMEZ",
     "poolAddress": "A4V3aGSAT9RYKs7KA2WsP1WBiMf5AVqHbWdf9EG2osZ8",
-    "totalLiquidity": 4773.38433654703,
+    "totalLiquidity": 2386.6385328845613,
     "liquidity_burned": "no",
     "mintfreeze": false,
-    "marketCap": 8026.4173946725705,
+    "marketCap": 7994.535173900445,
     "img_url": "https://ipfs.io/ipfs/QmTetjV9iYCpRh3H1rrFgiyK8tEHL8b7JF9kDTmG9hfWWd",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
-    "timest": 1717866614805,
+    "timest": 1717866827165,
     "tokenAddress": "CKWrW84tVcHtdRqiyj63KCDc8zrrBuf9hKm7YEbWEmXg",
     "tokenTicker": "SHEIKHTATE",
     "tokenName": "Sheikh Andrew Tate",
     "poolAddress": "EL77hqgaFSd9vN53cMVnjj6thFVDhSso38UxzUrR2FXg",
-    "totalLiquidity": 1887.2812078120003,
+    "totalLiquidity": 1868.6975653226402,
     "liquidity_burned": "yes",
     "mintfreeze": false,
-    "marketCap": 1099.2946423019687,
+    "marketCap": 1075.6292266457674,
     "img_url": "https://gateway.irys.xyz/uhD0DIEDdUJ3sOGra0luSWXu3rPnXkiJcFH8buIuC-4",
     "socials": {
       "twitter": "https://x.com/SheikhTateSpl",
       "telegram": "https://t.me/SheikhTateSpl"
     },
     "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
-    "timest": 1717866616721,
-    "tokenAddress": "GJpdki1kvTAhfUEEd6LpQ1YZW9HCeUrEy5XMsn7jMrho",
-    "tokenTicker": "G",
-    "tokenName": "G G G",
-    "poolAddress": "ALrJi9m8XMCTLWAXMX27dqNkvPxEDCyU1yJMvkTy9bfa",
-    "totalLiquidity": 0,
-    "liquidity_burned": "na",
-    "mintfreeze": false,
-    "img_url": "https://gateway.irys.xyz/XQ8jdNQMKwrq18-KqAfl3TCeVmkEFT343EM866bFuxg",
-    "socials": {},
-    "pumpfun": false,
-    "timestamp": 1717867469362
-  },
-  {
-    "timest": 1717866619164,
+    "timest": 1717866827350,
     "tokenAddress": "9YccibrrCkFNdeY3Gw3d6u55YhayeeP2buetTT54pump",
     "tokenTicker": "TOPGEEK",
     "tokenName": "tOp gEeK",
@@ -58,22 +44,7 @@
     "img_url": "https://cf-ipfs.com/ipfs/QmVXSXuaEz9tG5yT4sEcm49Juu62wQrCrykjk9vjXX8NF2",
     "socials": null,
     "pumpfun": true,
-    "timestamp": 1717867469362
-  },
-  {
-    "timest": 1717866681330,
-    "tokenAddress": "G2jMLmWS9t2JDg8E9DSaiAHLYXPJNgvYTJBhtA33aEVB",
-    "tokenTicker": "GTATE",
-    "tokenName": "GigaTate",
-    "poolAddress": "HSkNvtGbuA6Y5XXVd9g6NTZQ1i6wrVVuuapTrTAzHRVe",
-    "totalLiquidity": 10626.96568638768,
-    "liquidity_burned": "yes",
-    "mintfreeze": false,
-    "marketCap": 34708.520257928496,
-    "img_url": "https://media.discordapp.net/attachments/1216859035266191511/1249038728656191549/IMAGE_2024-06-08_203318.png?ex=6665d976&is=666487f6&hm=7b1e3f92ff60085450ebccd51acc409fbf6600b5b06b19f0fbbcd220d6085035&=&format=webp&quality=lossless&width=652&height=650",
-    "socials": null,
-    "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717866837531,
@@ -91,7 +62,7 @@
       "telegram": "https://t.me/realnbailey"
     },
     "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717866851139,
@@ -110,7 +81,7 @@
       "telegram": "https://t.me/shadesoftate"
     },
     "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717866900238,
@@ -125,7 +96,7 @@
     "img_url": "",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717866951285,
@@ -139,7 +110,7 @@
     "img_url": "https://i.imgur.com/yRUWYxL.png",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717866964081,
@@ -153,7 +124,7 @@
     "img_url": "https://cf-ipfs.com/ipfs/QmefFGaYetSTNsz5azmWkbKsHEG2WqmyHzv5FXxBEhNkdc",
     "socials": null,
     "pumpfun": true,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717867101977,
@@ -168,7 +139,7 @@
     "img_url": "https://quicknode.quicknode-ipfs.com/ipfs/QmWjJpDQ7uKQrjTQBYVfxGZV3YeXRRFebEEP2xBFq64FYg",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717867181851,
@@ -182,7 +153,7 @@
     "img_url": "https://cf-ipfs.com/ipfs/QmeXkHqYgq4UxXoZVtHXGF1kC7zk7KTFfbEN7mzCpFNARW",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717867237253,
@@ -197,7 +168,7 @@
     "img_url": "https://gateway.irys.xyz/fcMtSW4bVDjGqoQxdlaka7z6pah4QZkQMcrgzOBNCTk",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717867238012,
@@ -216,7 +187,7 @@
       "telegram": "https://t.me/AndrewTateMom"
     },
     "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717867404368,
@@ -231,7 +202,7 @@
     "img_url": "https://gateway.irys.xyz/TaealAsBXQ04xE1stIjZliTUdR5AMcgwHDbu8PMEEMY",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867469362
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717867648800,
@@ -246,7 +217,7 @@
     "img_url": "https://gateway.irys.xyz/3_Giah_tO6bexGh7Zrq3eayFesgP0yQGOQHGS0Nb6pY",
     "socials": null,
     "pumpfun": false,
-    "timestamp": 1717867649318
+    "timestamp": 1717867701392
   },
   {
     "timest": 1717867651174,
@@ -265,6 +236,54 @@
       "website": "https://pixelgpt.ai"
     },
     "pumpfun": false,
-    "timestamp": 1717867651277
+    "timestamp": 1717867701392
+  },
+  {
+    "timest": 1717867737519,
+    "tokenAddress": "G2jMLmWS9t2JDg8E9DSaiAHLYXPJNgvYTJBhtA33aEVB",
+    "tokenTicker": "GTATE",
+    "tokenName": "GigaTate",
+    "poolAddress": "HSkNvtGbuA6Y5XXVd9g6NTZQ1i6wrVVuuapTrTAzHRVe",
+    "totalLiquidity": 8957.965390167019,
+    "liquidity_burned": "yes",
+    "mintfreeze": false,
+    "marketCap": 24500.61052358732,
+    "img_url": "https://media.discordapp.net/attachments/1216859035266191511/1249038728656191549/IMAGE_2024-06-08_203318.png?ex=6665d976&is=666487f6&hm=7b1e3f92ff60085450ebccd51acc409fbf6600b5b06b19f0fbbcd220d6085035&=&format=webp&quality=lossless&width=652&height=650",
+    "socials": null,
+    "pumpfun": false,
+    "timestamp": 1717867741378
+  },
+  {
+    "timest": 1717867747457,
+    "tokenAddress": "EQaFfEFdbaXFeyWCa8hcTVqrh5xA5EgRuFpzBcNkzQkZ",
+    "tokenTicker": "CATFISH",
+    "tokenName": "CatFish",
+    "poolAddress": "Fv44SyAE8abpiPWo3aShqxQ4gBepa2Tv39yXoBkF8Jop",
+    "totalLiquidity": 12622.368437204288,
+    "liquidity_burned": "yes",
+    "mintfreeze": false,
+    "marketCap": 57795.59366546152,
+    "img_url": "https://gateway.irys.xyz/eeHSAvTg5yUmh6l3WFEQK9S-GtuKNhqDmJteIMSAF4g",
+    "socials": null,
+    "pumpfun": false,
+    "timestamp": 1717867751363
+  },
+  {
+    "timest": 1717867789339,
+    "tokenAddress": "7bssFmHF975cV8WNr3bZQ5KNa1krhFsgX17z5YQeTMon",
+    "tokenTicker": "SUPTRUMP",
+    "tokenName": "Support Trump",
+    "poolAddress": "3KEcpeLuHReVLmhGsURpqQ9jVm7Mtsko5mdM2F7fUiTo",
+    "totalLiquidity": 0,
+    "liquidity_burned": "na",
+    "mintfreeze": true,
+    "img_url": "https://cf-ipfs.com/ipfs/Qmd1JTGBd67htEKNLwHyB8FFZNtLnYULjPKHQf5fUSZ81J",
+    "socials": {
+      "website": "https://suptrump/.com",
+      "twitter": "https://twitter.com/suptrump",
+      "telegram": "https://t.me/suptrump"
+    },
+    "pumpfun": false,
+    "timestamp": 1717867791407
   }
 ]

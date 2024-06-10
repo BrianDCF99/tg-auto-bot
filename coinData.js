@@ -80,15 +80,22 @@ const getMintFreeze = (mintFreeze) => {
 const getBurn = (burn) => {
     if (burn === 'yes') {
         return `\nLiquidity Burned: ✅`;
+    } else if( burn === 'na'){
+        return '\nLiquidty Burned: N/A';
+
     } else {
         return '\nLiquidty Burned: ❌';
     }
 }
 
-const imgSrc = (imgURL) => imgURL.includes('pinata.cloud')
-    ? imgURL.replace('gateway.pinata.cloud', 'cloudflare-ipfs.com')
-    : imgURL;
-
+const imgSrc = (imgURL) => {
+    if (imgURL.includes('gateway.pinata.cloud')) {
+        return imgURL.replace('gateway.pinata.cloud', 'cloudflare-ipfs.com');
+    } else if (imgURL.includes('cf-ipfs.com')) {
+        return imgURL.replace('cf-ipfs.com', 'cloudflare-ipfs.com');
+    }
+    return imgURL;
+};
 class CoinData {
     constructor(filePath, type) {
         this.filePath = filePath;

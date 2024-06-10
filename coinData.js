@@ -63,14 +63,14 @@ const getTypeWithEmoji = (type) => {
 };
 
 const getPumpFun = (pumpFun) => {
-    if (pumpFun === true) {
+    if (pumpFun) {
         return `\n🚀🚀🚀  *PUMP FUN*  🚀🚀🚀`;
     }
     return '';
 }
 
 const getMintFreeze = (mintFreeze) => {
-    if (mintFreeze === false) {
+    if (!mintFreeze) {
         return `\nMint/Freeze Auth Disabled: ✅`;
     } else {
         return '\nMint/Freeze Auth Disabled: ❌';
@@ -124,7 +124,7 @@ class CoinData {
         const socialLinks = generateSocialLinks(data.socials);
         const separator = socialLinks ? `${socialLinks}` : '';
         return `
-${getTypeWithEmoji(this.type)}${getPumpFun(data.pumpFun)}
+${getTypeWithEmoji(this.type)}${getPumpFun(data.pumpfun)}
 *Name:* ${escapeMarkdownV2(data.tokenName)}
 *Ticker:* ${escapeMarkdownV2(data.tokenTicker)}
 *MC:* ${escapeMarkdownV2(formatNumber(data.marketCap))}

@@ -467,5 +467,775 @@
     "tokenTicker": "TIF",
     "tokenAddress": "3punTTUho5S9aB83UztTEo4FikExaU6KsfNujYYFXqUu",
     "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3punTTUho5S9aB83UztTEo4FikExaU6KsfNujYYFXqUu.png?size=lg&key=15286d"
+  },
+  "7EXukbosGosBU6QFKqey9hfugGE8qdnLaVvrEzSbVrhf",
+  "sgVS57gezYoFrKaYRCGSucdPAm29nawzhnsyFuxKjrA",
+  "7sgaSmesFs2nMFN1tJpqLRwPnKNeMvRcZntRaidKpump",
+  "EBRFf2CtrWU5q7UM1tVjKStpiN1vQ624YfeCxetfHq3E",
+  "GJJr75FcNctDC2zm7oLGgjyLDeuobq3aZaG1pv3TdGHB",
+  "7G7SMGV9nSG316ykk6iobjMZWa8GZb15Wd25kgaZGTaZ",
+  "GTnRtvTqYhWtTcnZHYCHvK1mSFMzWtnJXXfKP8gpump",
+  "21ZneBeNfwdkeYznF1LLvAj1QugbkihP6vj7WWCqpump",
+  "GDGP89tQQ5UaQWkjJf8V5A6pzYNvqxT47KeJUrYRJBk",
+  "CApUrTzeQVB2wsfLBvabqWrmiShkXocsWRiKX8aRvoZL",
+  "53qQ8ePKuB66KzXBjK8TyAq7zMbKL1CzuH2ocWcNpump",
+  "5Ep2SizQnje9k5eqoAyypsSndctuHEDmPF9J4a1jaZSn",
+  "dncErdYHmYfVXejFhTwyfXHDeBfFCoF5ACvZi4682fN",
+  "8xXjrmZjotxnLDPmB2N7jTKK3nVUhWifrW4WsmYGGbfW",
+  "BYSoRtVgMp6SEwzvEDc4eKNSHTBx1ZGg2pEGvmgCTHR8",
+  "8uDGNrVuo1NtCZ35BN5BfW1bwquQiwU9w5z7juGBEbet",
+  "6yVtEzRHc6q54WLtqBnobwYNP66JwY4sEeNkwxTK2DJW",
+  "4JwhVYAkLQ6cKwS2Lhm5uQFk6a6UtEkFJ9qB9kt8pump",
+  "5pWiCRsQhgKbghXdQ4oAWVMNuJXWsUyCCf27QiQ4pump",
+  "Dk6t1m7SqqXYku8RD4AuLTHurH8h2neGtG25jiPQEn1f",
+  "GiLgMNVsoxy7CtgzQXNj6xrprZJER1kQtjUu3Gk398u7",
+  "9YP8C2Zf7Ta4SWgDvLBEy57BcZHZw4fCbornnuF8RP1a",
+  "Uq3ZdRxMMfBhCWfGsSUGqT1Ca8s9QhDD3ht5YsZSBP5",
+  "B1JR7j5LFUUnbbY9itm7Lmqz1BTh5L3TpabDFkNJpump",
+  "HaiW3sREgaydPG6M67FeVugMoh4FquNCKfWmt7nhD1Mu",
+  "ELwvX8ptf1tJrCLjkrV246cJ69ejmmgVjyMwtdKBQuyM",
+  "ABGz4M4SVpCu5z9jT17mwZUQz5p5bxASuvcpsMukTKAr",
+  "81VHUKtWGML3j77mwUb6bRLYEVq5BVXck6ZJk5FN2ezi",
+  "2z582aX8C8NcWZCYsaK11Xb2hh3NwumfFGmbvKWtGjhq",
+  "3SSyoCF12wvZuvnso7jS94nJrpCpqffAS8vgYzYDpump",
+  "424LnXRWuuCXX4mWeMqxzHTb8mzZNWLpsSi5MuMgpump",
+  "AJA46gwnfkwB74CwpRwPR2x2gh2VP457tzKvdRo4wgQk",
+  "As4TUNDboy9Fj16z1tJhnsmqF5AyKrnuiXBdirtD6Kcq",
+  "9TayDLLATL5Yxnf4VYXnLcTw73Qd1Dh4TCcNVY1dpump",
+  "5JKvoU7PBjzhmCAvNZY2Ja3Xx9je5GmadD18e4i4MvoQ",
+  "BXNpwmf7e87nXNxaXnPSqtUo161Bvus3CtrVZHttpump",
+  "B9REJ9Wtq68VNTMvB6Kqjt9iBxG5o8xYoaR6wNCjbEeA",
+  "2rwCgYtsU8dTyJNCVPXHryXfqkLbYSjsDnzSVxheQfaJ",
+  "Be3g4V3y8X3aCv2tHyYChpxUVHv3b71zpXnz4qTDpump",
+  "56R2JRy9w4yhTH3rpWD3xGzivUU13NE6hsTm2jXCrb53",
+  "6s9qfDJ8HknTQHC9j7AM6UbT1Ymu52M4W2vhvzQ1pump",
+  "5sBJdnPZejemHxrSRAhYVaksEv9aMwoLuXun6MnfV5RJ",
+  "Gn3zmn3wvRPmcnynA1N6cTnLDdbNLWzfWwVf2oonGB1M",
+  "82YuiGYAjRKuyRDVLXwe7DfEwd8uX6YAjDryvwq1pump",
+  "4ifcPKgW2Fax6k7UdhWwm5NMG7HW9Vwtj5qT7zSuT1ZU",
+  "4BMpRzCyLG43fNGfhHCRXcoe67Vnzg6ZmjLShSR3DCzH",
+  "EMLJ6UmVM2KL6Rdgw66MbePbWSoUUnPQiU6x53rwoqgG",
+  "Heja63NVQpxyrKcziAvRwPH8GLKApRqv75MjvgNn6Bes",
+  "4kFvVvPp9ZCfiWWBQwsgwv7Xjxf7p6xAANWX7tNUJ2px",
+  "Cw2b612sBb9agNcFmmUUKGmEe1Z3AHadCj6QHp5BakqG",
+  "4mV1Cpm6psQ6485LcPoujeM2CTLWyoQ6wnW8vh9Wpump",
+  "GwDkYKbUcd9h716DCxm7Gg6JntC5McH5pLjH9rPyYSri",
+  "GkjRjcmhHPSzXy2dFdXDJEZSwoRG1RD47mnR9kfHZnJE",
+  "ADTGLaiEKyqprr6a3DGJ6YQZRjxrheAbk2H1PFar91TL",
+  "8KVzgDzzaiXtSfZdy3Hhi6hZHynCEDjj9raaVPoWpump",
+  "Efub9NRJyYdHkN1g2RfrV7nfrdSWJKT3Yki2L7orvfs6",
+  "RNTTHmSgSFScGsMPt4sVUZZRT2ppkTCPmBeKyKPyoat",
+  "CyTNAodrWMzQfbk6Ecgf563zTfXtjZtBs594QdkRh76v",
+  "oMRAq31cWdrCDG6zkWXP2rJX19dZ9t5BVj6r612Lfb2",
+  "4cNXX5M9gc8Lxug1pC1KRkYiJTVY5z4bmqp4apjCRXXX",
+  "H3SM9SxbFaWys3bZspi2RgXiYTpFoYAqisVxMfKxHkkJ",
+  "335cuik3yQNLrTpa2NdhSTZLaMTttzhvMzBXb9Dbpump",
+  "5xC5sk4g67XKhUtTkKwmFbuHKYdAy15i3kqzMiZCaxMg",
+  "3Qm8CSjrkBegHjKcqGq5ZrHQ9pbTyo9qFDKZZe8q7RGM",
+  "Dua5YpqDCFMojcLvCAu99btVW6PhEeyTBzCUxhiqV16c",
+  "av2NtbxuSWaT1yESD8h9Z3og3yyFc91mZ413BLpG5RB",
+  "BgGTwYuujbcGU9LvY9CBW6G596ATpeXbA5hFXNcnpump",
+  "6w6X2hGhChRoq9UAMWD4QmnC6ZLrUWQc49XPgZVQpump",
+  "JPKWSoVowF8JZNL8zyMpJS9sxwHG6jPg48BiGK1pump",
+  "C9kWnCf5N3FVAKM6Ek88AACLFeKgiasGcHr8Z3zwpump",
+  "G6HnKb71LscwcrnzVtPXcvq3m3HpjQDgV6uKQgBMpump",
+  "Ciqz8W72JYqZ4Ea3hEGu4hcufmvFqoQL86HkqY8dTa1A",
+  "AuyZAzsrhkZF8PZtiNKs7imsnmTPGCc4SPWmTDSDFMsz",
+  "HutFKbBjHm5sMCp4HS6PPKcieaaXpSiA4hLgRtWtpump",
+  "Btw3PnQyRrXL7FaMjtwdx4G9F5TMRXVwXZgVm7kCpump",
+  "EPNmq6aZgq9ZJdYe3qSVZ5NK4EDnCMzA1YCMZr2cpump",
+  "6rbdJCto4iUrnpgzkhMtPdYTxxXeBsgpL9LuWojAuc7p",
+  "C31HuoXZr47Uy1HiTLhmso2PVfsop6thE45oAEsE1kE2",
+  "FEEVpL3a933xfmg87yKS6AiL3jcfVptS4KZK6RRVpump",
+  "RNBS1UAWodAxXyWPc1hbppgvRfb6Mt4QfC4UauRvN48",
+  "A5m2BNq4pG1e2Wpsu4pPyowXE5sGykJJovb6btw7zsgk",
+  "4CSDPNEwy2SM8tFbzqu8Fqx2ps6qhSGkhXxhUXyXR85P",
+  "8XmbV458eZPWvgP6WvoamU5BiaWdrjofXmwkKn262xuN",
+  "A3udkbFr8sTu7bn1uZ3FCqBG5creerUgQxPkad1yHAow",
+  "Hyqg3DUhDQSSEGTAQBfSTDes7VgDRpXUtLfKXy6Bpump",
+  "A2Qb7iwxvUT6JEPyZH6eLAWSLBZ5H2x1KWPfHES3pump",
+  "Co1QB1ouWaRjBa9khTsAj3GAXBgbWgPS5NUA8qk9Ywh5",
+  "AWjxDrNuhoAp96KFTc5fdVRciKajNpxK8PAGyoybpump",
+  "9ErMSFyhJuTjMPZh1zXt1fH6ubdCYQcNZnNu7oxXpump",
+  "65NexmiyC7g9rP7mzxVk91v7E5BHuJ2r2dDDxgeWpump",
+  "EbKgG4sSvmYNoS3na7Y8cBTembqKx9vCuyx624rQXr1c",
+  "6p3bm6jbuDfQVbFGTM4abC2jYWLLSjcLRqGqLZ18YFoc",
+  "5dwFEXReNJ3c3KsMHWuUUZX4itJPCBmuo1jEdohdxnVP",
+  "ZHsTYqTQMdmVEcCxjB1bcwwQXzEP7DD6ba7hT7ungyw",
+  "FLEwyE9XkKQ7NEoZ7ZVVugYiV6Mz6ReVLxqZgMRrARJ5",
+  "2mg2N4dFCdsXaA8YorCJEuvSqP72LhJcAHzNXJhXdTvv",
+  "AQWQoMJFia79RxDv3h7pj8kfXoUAQaU7JHyxMiEcyx1K",
+  "2KmuBAN1ncBW4Kpr2mtCLaUWjnoLWTfFevTe3M2N4g22",
+  "BvNwB51ZiL8krdQx1NwD2fPaWgCNkugjY6oKq7GpqgZj",
+  "FviYGy3M6BLHQwAmPGf83Qu8oep3mWU9TYhUuzuapump",
+  "XjSfXA8AMtbxSstjQ7QDhLDqBbg9bryKqpYfLkLT58N",
+  "2ZQRMFqsLeozMpEnMVhsi9tD62v8QfV1jRMTug4ZsFM7",
+  "5m8BjzDKgVwm7yv9RDoxZkyLVP3TTXbNyvRe3TMVDzY8",
+  "zvibWPF1GDRwEyZagYDwGZXN4CQpvdg5XwM5VxevAGU",
+  "4Zvk81PwVZgvT4pGnTFsEB2r6DV9nVaQKBeHYwfEpump",
+  "9aDn2mZDyWgMJMRTsVxoFtfEYgpxrYd94W8CxWfDpump",
+  "6XAWpa4tybqJ2ASHR724VHTPiXBWLFfzfzbPG8dJpump",
+  "59T3dRJabZRVkFo1AVCzr7AXKoDMfj7r8Bt5v63Hpump",
+  "8UtjAmZqqTD5x835ZzyxfH2PR7fEsWJEvX5SeRiRpump",
+  "BSrXNDeS4XxGQ1w3ewMK5NYQ2WohPPeh6F5EQKgNpump",
+  {
+    "tokenName": "IO",
+    "tokenTicker": "IO",
+    "tokenAddress": "7EXukbosGosBU6QFKqey9hfugGE8qdnLaVvrEzSbVrhf",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7EXukbosGosBU6QFKqey9hfugGE8qdnLaVvrEzSbVrhf.png?size=lg&key=13ec29"
+  },
+  {
+    "tokenName": "REAL NIGGER SPEED ",
+    "tokenTicker": "RNS",
+    "tokenAddress": "sgVS57gezYoFrKaYRCGSucdPAm29nawzhnsyFuxKjrA",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/sgVS57gezYoFrKaYRCGSucdPAm29nawzhnsyFuxKjrA.png?size=lg&key=f25fc6"
+  },
+  {
+    "tokenName": "Mei the Dumpling",
+    "tokenTicker": "mei",
+    "tokenAddress": "7sgaSmesFs2nMFN1tJpqLRwPnKNeMvRcZntRaidKpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7sgaSmesFs2nMFN1tJpqLRwPnKNeMvRcZntRaidKpump.png?size=lg&key=526f13"
+  },
+  {
+    "tokenName": "Real Nigger Ali",
+    "tokenTicker": "RNA",
+    "tokenAddress": "EBRFf2CtrWU5q7UM1tVjKStpiN1vQ624YfeCxetfHq3E",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EBRFf2CtrWU5q7UM1tVjKStpiN1vQ624YfeCxetfHq3E.png?size=lg&key=2c384e"
+  },
+  {
+    "tokenName": "andruw tet",
+    "tokenTicker": "tet",
+    "tokenAddress": "GJJr75FcNctDC2zm7oLGgjyLDeuobq3aZaG1pv3TdGHB",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GJJr75FcNctDC2zm7oLGgjyLDeuobq3aZaG1pv3TdGHB.png?size=lg&key=b50dc3"
+  },
+  {
+    "tokenName": "Donald Trump Jr.",
+    "tokenTicker": "$DTJR",
+    "tokenAddress": "7G7SMGV9nSG316ykk6iobjMZWa8GZb15Wd25kgaZGTaZ",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7G7SMGV9nSG316ykk6iobjMZWa8GZb15Wd25kgaZGTaZ.png?size=lg&key=ad5a9b"
+  },
+  {
+    "tokenName": "WMV",
+    "tokenTicker": "$WMV",
+    "tokenAddress": "GTnRtvTqYhWtTcnZHYCHvK1mSFMzWtnJXXfKP8gpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GTnRtvTqYhWtTcnZHYCHvK1mSFMzWtnJXXfKP8gpump.png?size=lg&key=4ef227"
+  },
+  {
+    "tokenName": "BUBI",
+    "tokenTicker": "BUBI",
+    "tokenAddress": "21ZneBeNfwdkeYznF1LLvAj1QugbkihP6vj7WWCqpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/21ZneBeNfwdkeYznF1LLvAj1QugbkihP6vj7WWCqpump.png?size=lg&key=684069"
+  },
+  {
+    "tokenName": "Real Nigger Putin",
+    "tokenTicker": "RNP",
+    "tokenAddress": "GDGP89tQQ5UaQWkjJf8V5A6pzYNvqxT47KeJUrYRJBk",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GDGP89tQQ5UaQWkjJf8V5A6pzYNvqxT47KeJUrYRJBk.png?size=lg&key=d2e943"
+  },
+  {
+    "tokenName": "Cryptu President",
+    "tokenTicker": "TREMP",
+    "tokenAddress": "CApUrTzeQVB2wsfLBvabqWrmiShkXocsWRiKX8aRvoZL",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CApUrTzeQVB2wsfLBvabqWrmiShkXocsWRiKX8aRvoZL.png?size=lg&key=816ae3"
+  },
+  {
+    "tokenName": "REAL NIGGER PUTIN",
+    "tokenTicker": "RNP",
+    "tokenAddress": "53qQ8ePKuB66KzXBjK8TyAq7zMbKL1CzuH2ocWcNpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/53qQ8ePKuB66KzXBjK8TyAq7zMbKL1CzuH2ocWcNpump.png?size=lg&key=541583"
+  },
+  {
+    "tokenName": "Real Nigger Trump Jr",
+    "tokenTicker": "RNTJ",
+    "tokenAddress": "5Ep2SizQnje9k5eqoAyypsSndctuHEDmPF9J4a1jaZSn",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5Ep2SizQnje9k5eqoAyypsSndctuHEDmPF9J4a1jaZSn.png?size=lg&key=e8178a"
+  },
+  {
+    "tokenName": "BlackRockETFSP500MSCIStateSt",
+    "tokenTicker": "SOLETF",
+    "tokenAddress": "dncErdYHmYfVXejFhTwyfXHDeBfFCoF5ACvZi4682fN",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/dncErdYHmYfVXejFhTwyfXHDeBfFCoF5ACvZi4682fN.png?size=lg&key=0e3a36"
+  },
+  {
+    "tokenName": "Fake Nigger Biden",
+    "tokenTicker": "FNB",
+    "tokenAddress": "8xXjrmZjotxnLDPmB2N7jTKK3nVUhWifrW4WsmYGGbfW",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8xXjrmZjotxnLDPmB2N7jTKK3nVUhWifrW4WsmYGGbfW.png?size=lg&key=fa005a"
+  },
+  {
+    "tokenName": "REAL BOOK OF REAL NIGGERS",
+    "tokenTicker": "NIGGERBOOK",
+    "tokenAddress": "BYSoRtVgMp6SEwzvEDc4eKNSHTBx1ZGg2pEGvmgCTHR8",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BYSoRtVgMp6SEwzvEDc4eKNSHTBx1ZGg2pEGvmgCTHR8.png?size=lg&key=15a6ca"
+  },
+  {
+    "tokenName": "Babushcat",
+    "tokenTicker": "BABUSHCAT",
+    "tokenAddress": "8uDGNrVuo1NtCZ35BN5BfW1bwquQiwU9w5z7juGBEbet",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8uDGNrVuo1NtCZ35BN5BfW1bwquQiwU9w5z7juGBEbet.png?size=lg&key=497bee"
+  },
+  {
+    "tokenName": "CobraWifHat",
+    "tokenTicker": "CWIF",
+    "tokenAddress": "6yVtEzRHc6q54WLtqBnobwYNP66JwY4sEeNkwxTK2DJW",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6yVtEzRHc6q54WLtqBnobwYNP66JwY4sEeNkwxTK2DJW.png?size=lg&key=9cd7ed"
+  },
+  {
+    "tokenName": "Asian Son",
+    "tokenTicker": "JKIM",
+    "tokenAddress": "4JwhVYAkLQ6cKwS2Lhm5uQFk6a6UtEkFJ9qB9kt8pump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4JwhVYAkLQ6cKwS2Lhm5uQFk6a6UtEkFJ9qB9kt8pump.png?size=lg&key=8ccf90"
+  },
+  {
+    "tokenName": "Real Nigger Trump JR",
+    "tokenTicker": "RNTJ",
+    "tokenAddress": "5pWiCRsQhgKbghXdQ4oAWVMNuJXWsUyCCf27QiQ4pump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5pWiCRsQhgKbghXdQ4oAWVMNuJXWsUyCCf27QiQ4pump.png?size=lg&key=d31615"
+  },
+  {
+    "tokenName": "REAL NIGGER WORLD LEADER",
+    "tokenTicker": "RNWL",
+    "tokenAddress": "Dk6t1m7SqqXYku8RD4AuLTHurH8h2neGtG25jiPQEn1f",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dk6t1m7SqqXYku8RD4AuLTHurH8h2neGtG25jiPQEn1f.png?size=lg&key=810050"
+  },
+  {
+    "tokenName": "Real Nigger Kitty",
+    "tokenTicker": "RNK",
+    "tokenAddress": "GiLgMNVsoxy7CtgzQXNj6xrprZJER1kQtjUu3Gk398u7",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GiLgMNVsoxy7CtgzQXNj6xrprZJER1kQtjUu3Gk398u7.png?size=lg&key=79ef6a"
+  },
+  {
+    "tokenName": "Chinese Kabosu",
+    "tokenTicker": "KABOXI",
+    "tokenAddress": "9YP8C2Zf7Ta4SWgDvLBEy57BcZHZw4fCbornnuF8RP1a",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9YP8C2Zf7Ta4SWgDvLBEy57BcZHZw4fCbornnuF8RP1a.png?size=lg&key=251f1d"
+  },
+  {
+    "tokenName": "Nigger Slave",
+    "tokenTicker": "NiggerS",
+    "tokenAddress": "Uq3ZdRxMMfBhCWfGsSUGqT1Ca8s9QhDD3ht5YsZSBP5",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Uq3ZdRxMMfBhCWfGsSUGqT1Ca8s9QhDD3ht5YsZSBP5.png?size=lg&key=66a8d9"
+  },
+  {
+    "tokenName": "Ivanka Tremp",
+    "tokenTicker": "IVANKA",
+    "tokenAddress": "B1JR7j5LFUUnbbY9itm7Lmqz1BTh5L3TpabDFkNJpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B1JR7j5LFUUnbbY9itm7Lmqz1BTh5L3TpabDFkNJpump.png?size=lg&key=f82bf0"
+  },
+  {
+    "tokenName": "Sealana",
+    "tokenTicker": "SEAL",
+    "tokenAddress": "HaiW3sREgaydPG6M67FeVugMoh4FquNCKfWmt7nhD1Mu",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HaiW3sREgaydPG6M67FeVugMoh4FquNCKfWmt7nhD1Mu.png?size=lg&key=5def34"
+  },
+  {
+    "tokenName": "Bacon Boys",
+    "tokenTicker": "BACON",
+    "tokenAddress": "ELwvX8ptf1tJrCLjkrV246cJ69ejmmgVjyMwtdKBQuyM",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ELwvX8ptf1tJrCLjkrV246cJ69ejmmgVjyMwtdKBQuyM.png?size=lg&key=1003d3"
+  },
+  {
+    "tokenName": "Real Niggers Hate Pride",
+    "tokenTicker": "FKPRIDE",
+    "tokenAddress": "ABGz4M4SVpCu5z9jT17mwZUQz5p5bxASuvcpsMukTKAr",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ABGz4M4SVpCu5z9jT17mwZUQz5p5bxASuvcpsMukTKAr.png?size=lg&key=6703c9"
+  },
+  {
+    "tokenName": "CELTS",
+    "tokenTicker": "$CELTS",
+    "tokenAddress": "81VHUKtWGML3j77mwUb6bRLYEVq5BVXck6ZJk5FN2ezi",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/81VHUKtWGML3j77mwUb6bRLYEVq5BVXck6ZJk5FN2ezi.png?size=lg&key=7aeef5"
+  },
+  {
+    "tokenName": "Buff Trump",
+    "tokenTicker": "BUFFTRUMP",
+    "tokenAddress": "2z582aX8C8NcWZCYsaK11Xb2hh3NwumfFGmbvKWtGjhq",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2z582aX8C8NcWZCYsaK11Xb2hh3NwumfFGmbvKWtGjhq.png?size=lg&key=c3fa4a"
+  },
+  {
+    "tokenName": "TateKfcTrumpWatermelon69ThugInu",
+    "tokenTicker": "nigger",
+    "tokenAddress": "3SSyoCF12wvZuvnso7jS94nJrpCpqffAS8vgYzYDpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3SSyoCF12wvZuvnso7jS94nJrpCpqffAS8vgYzYDpump.png?size=lg&key=2b1b73"
+  },
+  {
+    "tokenName": "Twin Peaks Capital",
+    "tokenTicker": "PEAKS",
+    "tokenAddress": "424LnXRWuuCXX4mWeMqxzHTb8mzZNWLpsSi5MuMgpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/424LnXRWuuCXX4mWeMqxzHTb8mzZNWLpsSi5MuMgpump.png?size=lg&key=549ee1"
+  },
+  {
+    "tokenName": "TOP G GOLD",
+    "tokenTicker": "TOPG",
+    "tokenAddress": "AJA46gwnfkwB74CwpRwPR2x2gh2VP457tzKvdRo4wgQk",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AJA46gwnfkwB74CwpRwPR2x2gh2VP457tzKvdRo4wgQk.png?size=lg&key=14ecda"
+  },
+  {
+    "tokenName": "REAL NIGGER SUMMER",
+    "tokenTicker": "RNS",
+    "tokenAddress": "As4TUNDboy9Fj16z1tJhnsmqF5AyKrnuiXBdirtD6Kcq",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/As4TUNDboy9Fj16z1tJhnsmqF5AyKrnuiXBdirtD6Kcq.png?size=lg&key=c6e6c9"
+  },
+  {
+    "tokenName": "Taterade",
+    "tokenTicker": "TATER",
+    "tokenAddress": "9TayDLLATL5Yxnf4VYXnLcTw73Qd1Dh4TCcNVY1dpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9TayDLLATL5Yxnf4VYXnLcTw73Qd1Dh4TCcNVY1dpump.png?size=lg&key=78da6c"
+  },
+  {
+    "tokenName": "Goofy",
+    "tokenTicker": "GOOFY",
+    "tokenAddress": "5JKvoU7PBjzhmCAvNZY2Ja3Xx9je5GmadD18e4i4MvoQ",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5JKvoU7PBjzhmCAvNZY2Ja3Xx9je5GmadD18e4i4MvoQ.png?size=lg&key=8cecbe"
+  },
+  {
+    "tokenName": "Fuck Tate Meta",
+    "tokenTicker": "FTM",
+    "tokenAddress": "BXNpwmf7e87nXNxaXnPSqtUo161Bvus3CtrVZHttpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BXNpwmf7e87nXNxaXnPSqtUo161Bvus3CtrVZHttpump.png?size=lg&key=258d55"
+  },
+  {
+    "tokenName": "Real Nigger  Andrew Tate",
+    "tokenTicker": "RNAT",
+    "tokenAddress": "B9REJ9Wtq68VNTMvB6Kqjt9iBxG5o8xYoaR6wNCjbEeA",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B9REJ9Wtq68VNTMvB6Kqjt9iBxG5o8xYoaR6wNCjbEeA.png?size=lg&key=d3b4b4"
+  },
+  {
+    "tokenName": "NIGGERS WIF ATTITUDE ",
+    "tokenTicker": "NWA",
+    "tokenAddress": "2rwCgYtsU8dTyJNCVPXHryXfqkLbYSjsDnzSVxheQfaJ",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2rwCgYtsU8dTyJNCVPXHryXfqkLbYSjsDnzSVxheQfaJ.png?size=lg&key=9b801e"
+  },
+  {
+    "tokenName": "dogrifhat",
+    "tokenTicker": "RIF",
+    "tokenAddress": "Be3g4V3y8X3aCv2tHyYChpxUVHv3b71zpXnz4qTDpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Be3g4V3y8X3aCv2tHyYChpxUVHv3b71zpXnz4qTDpump.png?size=lg&key=80681d"
+  },
+  {
+    "tokenName": "Degen Twins",
+    "tokenTicker": "DEGENTWINS",
+    "tokenAddress": "56R2JRy9w4yhTH3rpWD3xGzivUU13NE6hsTm2jXCrb53",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/56R2JRy9w4yhTH3rpWD3xGzivUU13NE6hsTm2jXCrb53.png?size=lg&key=415bff"
+  },
+  {
+    "tokenName": "REAL TIGGA",
+    "tokenTicker": "TIGGA",
+    "tokenAddress": "6s9qfDJ8HknTQHC9j7AM6UbT1Ymu52M4W2vhvzQ1pump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6s9qfDJ8HknTQHC9j7AM6UbT1Ymu52M4W2vhvzQ1pump.png?size=lg&key=dc4982"
+  },
+  {
+    "tokenName": "Solana Bull",
+    "tokenTicker": "BULL",
+    "tokenAddress": "5sBJdnPZejemHxrSRAhYVaksEv9aMwoLuXun6MnfV5RJ",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5sBJdnPZejemHxrSRAhYVaksEv9aMwoLuXun6MnfV5RJ.png?size=lg&key=8788d6"
+  },
+  {
+    "tokenName": "BlackTrumpCoin777",
+    "tokenTicker": "BTC",
+    "tokenAddress": "Gn3zmn3wvRPmcnynA1N6cTnLDdbNLWzfWwVf2oonGB1M",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gn3zmn3wvRPmcnynA1N6cTnLDdbNLWzfWwVf2oonGB1M.png?size=lg&key=27104e"
+  },
+  {
+    "tokenName": "China cat",
+    "tokenTicker": "$Lihua",
+    "tokenAddress": "82YuiGYAjRKuyRDVLXwe7DfEwd8uX6YAjDryvwq1pump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/82YuiGYAjRKuyRDVLXwe7DfEwd8uX6YAjDryvwq1pump.png?size=lg&key=faf722"
+  },
+  {
+    "tokenName": "Trump Arrested",
+    "tokenTicker": "TRUMPARR",
+    "tokenAddress": "4ifcPKgW2Fax6k7UdhWwm5NMG7HW9Vwtj5qT7zSuT1ZU",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4ifcPKgW2Fax6k7UdhWwm5NMG7HW9Vwtj5qT7zSuT1ZU.png?size=lg&key=3167af"
+  },
+  {
+    "tokenName": "Real Nigger Speed",
+    "tokenTicker": "RNS",
+    "tokenAddress": "4BMpRzCyLG43fNGfhHCRXcoe67Vnzg6ZmjLShSR3DCzH",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4BMpRzCyLG43fNGfhHCRXcoe67Vnzg6ZmjLShSR3DCzH.png?size=lg&key=429474"
+  },
+  {
+    "tokenName": "Don Pepe",
+    "tokenTicker": "DONPEPE",
+    "tokenAddress": "EMLJ6UmVM2KL6Rdgw66MbePbWSoUUnPQiU6x53rwoqgG",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EMLJ6UmVM2KL6Rdgw66MbePbWSoUUnPQiU6x53rwoqgG.png?size=lg&key=6ba6fb"
+  },
+  {
+    "tokenName": "DOWNDREW TATE",
+    "tokenTicker": "$DTATE",
+    "tokenAddress": "Heja63NVQpxyrKcziAvRwPH8GLKApRqv75MjvgNn6Bes",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Heja63NVQpxyrKcziAvRwPH8GLKApRqv75MjvgNn6Bes.png?size=lg&key=8def01"
+  },
+  {
+    "tokenName": "Real Nigger Melania",
+    "tokenTicker": "RNM",
+    "tokenAddress": "4kFvVvPp9ZCfiWWBQwsgwv7Xjxf7p6xAANWX7tNUJ2px",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4kFvVvPp9ZCfiWWBQwsgwv7Xjxf7p6xAANWX7tNUJ2px.png?size=lg&key=34e76f"
+  },
+  {
+    "tokenName": "REAL NIGGER IGGY",
+    "tokenTicker": "RNI",
+    "tokenAddress": "Cw2b612sBb9agNcFmmUUKGmEe1Z3AHadCj6QHp5BakqG",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Cw2b612sBb9agNcFmmUUKGmEe1Z3AHadCj6QHp5BakqG.png?size=lg&key=e786db"
+  },
+  {
+    "tokenName": "Dan Bilzerian",
+    "tokenTicker": "IGNITE",
+    "tokenAddress": "4mV1Cpm6psQ6485LcPoujeM2CTLWyoQ6wnW8vh9Wpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4mV1Cpm6psQ6485LcPoujeM2CTLWyoQ6wnW8vh9Wpump.png?size=lg&key=522751"
+  },
+  {
+    "tokenName": "Fat Potato",
+    "tokenTicker": "FATPOTATO",
+    "tokenAddress": "GwDkYKbUcd9h716DCxm7Gg6JntC5McH5pLjH9rPyYSri",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GwDkYKbUcd9h716DCxm7Gg6JntC5McH5pLjH9rPyYSri.png?size=lg&key=757216"
+  },
+  {
+    "tokenName": "Tate America Great Again",
+    "tokenTicker": "TAGA",
+    "tokenAddress": "GkjRjcmhHPSzXy2dFdXDJEZSwoRG1RD47mnR9kfHZnJE",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GkjRjcmhHPSzXy2dFdXDJEZSwoRG1RD47mnR9kfHZnJE.png?size=lg&key=a8251c"
+  },
+  {
+    "tokenName": "BREATHEAIR",
+    "tokenTicker": "BREATHEAIR",
+    "tokenAddress": "ADTGLaiEKyqprr6a3DGJ6YQZRjxrheAbk2H1PFar91TL",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ADTGLaiEKyqprr6a3DGJ6YQZRjxrheAbk2H1PFar91TL.png?size=lg&key=72c0a7"
+  },
+  {
+    "tokenName": "Real Nigger Tucker",
+    "tokenTicker": "RNT",
+    "tokenAddress": "8KVzgDzzaiXtSfZdy3Hhi6hZHynCEDjj9raaVPoWpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8KVzgDzzaiXtSfZdy3Hhi6hZHynCEDjj9raaVPoWpump.png?size=lg&key=01b9b7"
+  },
+  {
+    "tokenName": "Hypno Pepe",
+    "tokenTicker": "HYPNOPEPE",
+    "tokenAddress": "Efub9NRJyYdHkN1g2RfrV7nfrdSWJKT3Yki2L7orvfs6",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Efub9NRJyYdHkN1g2RfrV7nfrdSWJKT3Yki2L7orvfs6.png?size=lg&key=8a8b88"
+  },
+  {
+    "tokenName": "Real Nigger Trump",
+    "tokenTicker": "RNT",
+    "tokenAddress": "RNTTHmSgSFScGsMPt4sVUZZRT2ppkTCPmBeKyKPyoat",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/RNTTHmSgSFScGsMPt4sVUZZRT2ppkTCPmBeKyKPyoat.png?size=lg&key=363290"
+  },
+  {
+    "tokenName": "Professor Cat",
+    "tokenTicker": "PROFESSOR",
+    "tokenAddress": "CyTNAodrWMzQfbk6Ecgf563zTfXtjZtBs594QdkRh76v",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CyTNAodrWMzQfbk6Ecgf563zTfXtjZtBs594QdkRh76v.png?size=lg&key=2b2624"
+  },
+  {
+    "tokenName": "AndrewNiggerTateMan",
+    "tokenTicker": "ANTMAN",
+    "tokenAddress": "oMRAq31cWdrCDG6zkWXP2rJX19dZ9t5BVj6r612Lfb2",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/oMRAq31cWdrCDG6zkWXP2rJX19dZ9t5BVj6r612Lfb2.png?size=lg&key=c5be81"
+  },
+  {
+    "tokenName": "Make Trump Lol Again",
+    "tokenTicker": "MTLA",
+    "tokenAddress": "4cNXX5M9gc8Lxug1pC1KRkYiJTVY5z4bmqp4apjCRXXX",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4cNXX5M9gc8Lxug1pC1KRkYiJTVY5z4bmqp4apjCRXXX.png?size=lg&key=083dba"
+  },
+  {
+    "tokenName": "White Changing Money",
+    "tokenTicker": "WHITE",
+    "tokenAddress": "H3SM9SxbFaWys3bZspi2RgXiYTpFoYAqisVxMfKxHkkJ",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H3SM9SxbFaWys3bZspi2RgXiYTpFoYAqisVxMfKxHkkJ.png?size=lg&key=162136"
+  },
+  {
+    "tokenName": "Barron Trump",
+    "tokenTicker": "BTRUMP",
+    "tokenAddress": "335cuik3yQNLrTpa2NdhSTZLaMTttzhvMzBXb9Dbpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/335cuik3yQNLrTpa2NdhSTZLaMTttzhvMzBXb9Dbpump.png?size=lg&key=301948"
+  },
+  {
+    "tokenName": "Real Nigger Nubcat",
+    "tokenTicker": "nigub",
+    "tokenAddress": "5xC5sk4g67XKhUtTkKwmFbuHKYdAy15i3kqzMiZCaxMg",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5xC5sk4g67XKhUtTkKwmFbuHKYdAy15i3kqzMiZCaxMg.png?size=lg&key=a0e15f"
+  },
+  {
+    "tokenName": "REAL NIGGER OBAMA",
+    "tokenTicker": "RNO",
+    "tokenAddress": "3Qm8CSjrkBegHjKcqGq5ZrHQ9pbTyo9qFDKZZe8q7RGM",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3Qm8CSjrkBegHjKcqGq5ZrHQ9pbTyo9qFDKZZe8q7RGM.png?size=lg&key=6ce447"
+  },
+  {
+    "tokenName": "Roaring Doge",
+    "tokenTicker": "RDOGE",
+    "tokenAddress": "Dua5YpqDCFMojcLvCAu99btVW6PhEeyTBzCUxhiqV16c",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dua5YpqDCFMojcLvCAu99btVW6PhEeyTBzCUxhiqV16c.png?size=lg&key=3fd0e1"
+  },
+  {
+    "tokenName": "Landwolf Wif Beer",
+    "tokenTicker": "WEER",
+    "tokenAddress": "av2NtbxuSWaT1yESD8h9Z3og3yyFc91mZ413BLpG5RB",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/av2NtbxuSWaT1yESD8h9Z3og3yyFc91mZ413BLpG5RB.png?size=lg&key=c335e8"
+  },
+  {
+    "tokenName": "USD nigga",
+    "tokenTicker": "USD nigga",
+    "tokenAddress": "BgGTwYuujbcGU9LvY9CBW6G596ATpeXbA5hFXNcnpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BgGTwYuujbcGU9LvY9CBW6G596ATpeXbA5hFXNcnpump.png?size=lg&key=5f3f00"
+  },
+  {
+    "tokenName": "Real Nigger Hate",
+    "tokenTicker": "RNH",
+    "tokenAddress": "6w6X2hGhChRoq9UAMWD4QmnC6ZLrUWQc49XPgZVQpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6w6X2hGhChRoq9UAMWD4QmnC6ZLrUWQc49XPgZVQpump.png?size=lg&key=1a7c98"
+  },
+  {
+    "tokenName": "Alpha Launches",
+    "tokenTicker": "ALPHA",
+    "tokenAddress": "JPKWSoVowF8JZNL8zyMpJS9sxwHG6jPg48BiGK1pump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/JPKWSoVowF8JZNL8zyMpJS9sxwHG6jPg48BiGK1pump.png?size=lg&key=c012ca"
+  },
+  {
+    "tokenName": "Real Pimp Bilzerian",
+    "tokenTicker": "RPB",
+    "tokenAddress": "C9kWnCf5N3FVAKM6Ek88AACLFeKgiasGcHr8Z3zwpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/C9kWnCf5N3FVAKM6Ek88AACLFeKgiasGcHr8Z3zwpump.png?size=lg&key=e1d69a"
+  },
+  {
+    "tokenName": "Biaoqing",
+    "tokenTicker": "BIAO",
+    "tokenAddress": "G6HnKb71LscwcrnzVtPXcvq3m3HpjQDgV6uKQgBMpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G6HnKb71LscwcrnzVtPXcvq3m3HpjQDgV6uKQgBMpump.png?size=lg&key=f7968c"
+  },
+  {
+    "tokenName": "Real Nigger Pepe",
+    "tokenTicker": "RNP",
+    "tokenAddress": "Ciqz8W72JYqZ4Ea3hEGu4hcufmvFqoQL86HkqY8dTa1A",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ciqz8W72JYqZ4Ea3hEGu4hcufmvFqoQL86HkqY8dTa1A.png?size=lg&key=16de9a"
+  },
+  {
+    "tokenName": "Lava Protocol",
+    "tokenTicker": "LAVA",
+    "tokenAddress": "AuyZAzsrhkZF8PZtiNKs7imsnmTPGCc4SPWmTDSDFMsz",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AuyZAzsrhkZF8PZtiNKs7imsnmTPGCc4SPWmTDSDFMsz.png?size=lg&key=a2d778"
+  },
+  {
+    "tokenName": "Dan Bilzerians Goat ",
+    "tokenTicker": "Zeus ",
+    "tokenAddress": "HutFKbBjHm5sMCp4HS6PPKcieaaXpSiA4hLgRtWtpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HutFKbBjHm5sMCp4HS6PPKcieaaXpSiA4hLgRtWtpump.png?size=lg&key=a5b4b1"
+  },
+  {
+    "tokenName": "REAL NIGGER PAC",
+    "tokenTicker": "2PAC",
+    "tokenAddress": "Btw3PnQyRrXL7FaMjtwdx4G9F5TMRXVwXZgVm7kCpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Btw3PnQyRrXL7FaMjtwdx4G9F5TMRXVwXZgVm7kCpump.png?size=lg&key=e1d933"
+  },
+  {
+    "tokenName": "RNTS vs Brokies",
+    "tokenTicker": "Brokes",
+    "tokenAddress": "EPNmq6aZgq9ZJdYe3qSVZ5NK4EDnCMzA1YCMZr2cpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EPNmq6aZgq9ZJdYe3qSVZ5NK4EDnCMzA1YCMZr2cpump.png?size=lg&key=563a4d"
+  },
+  {
+    "tokenName": "President Trump",
+    "tokenTicker": "PUMP",
+    "tokenAddress": "6rbdJCto4iUrnpgzkhMtPdYTxxXeBsgpL9LuWojAuc7p",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6rbdJCto4iUrnpgzkhMtPdYTxxXeBsgpL9LuWojAuc7p.png?size=lg&key=3c56f3"
+  },
+  {
+    "tokenName": "Foolana",
+    "tokenTicker": "FANA",
+    "tokenAddress": "C31HuoXZr47Uy1HiTLhmso2PVfsop6thE45oAEsE1kE2",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/C31HuoXZr47Uy1HiTLhmso2PVfsop6thE45oAEsE1kE2.png?size=lg&key=03009c"
+  },
+  {
+    "tokenName": "DAN BILZERIAN'S CAT",
+    "tokenTicker": "SMUSHBALL",
+    "tokenAddress": "FEEVpL3a933xfmg87yKS6AiL3jcfVptS4KZK6RRVpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FEEVpL3a933xfmg87yKS6AiL3jcfVptS4KZK6RRVpump.png?size=lg&key=70871b"
+  },
+  {
+    "tokenName": "Real Nigger Biden",
+    "tokenTicker": "RNB",
+    "tokenAddress": "RNBS1UAWodAxXyWPc1hbppgvRfb6Mt4QfC4UauRvN48",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/RNBS1UAWodAxXyWPc1hbppgvRfb6Mt4QfC4UauRvN48.png?size=lg&key=923097"
+  },
+  {
+    "tokenName": "REAL NIGGER ANSEM",
+    "tokenTicker": "RNA",
+    "tokenAddress": "A5m2BNq4pG1e2Wpsu4pPyowXE5sGykJJovb6btw7zsgk",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A5m2BNq4pG1e2Wpsu4pPyowXE5sGykJJovb6btw7zsgk.png?size=lg&key=c609b5"
+  },
+  {
+    "tokenName": "Dabsponge",
+    "tokenTicker": "Sponge",
+    "tokenAddress": "4CSDPNEwy2SM8tFbzqu8Fqx2ps6qhSGkhXxhUXyXR85P",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4CSDPNEwy2SM8tFbzqu8Fqx2ps6qhSGkhXxhUXyXR85P.png?size=lg&key=e472dd"
+  },
+  {
+    "tokenName": "Normie",
+    "tokenTicker": "NORM",
+    "tokenAddress": "8XmbV458eZPWvgP6WvoamU5BiaWdrjofXmwkKn262xuN",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8XmbV458eZPWvgP6WvoamU5BiaWdrjofXmwkKn262xuN.png?size=lg&key=1066cf"
+  },
+  {
+    "tokenName": "Downald Trump",
+    "tokenTicker": "DOWNALD",
+    "tokenAddress": "A3udkbFr8sTu7bn1uZ3FCqBG5creerUgQxPkad1yHAow",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A3udkbFr8sTu7bn1uZ3FCqBG5creerUgQxPkad1yHAow.png?size=lg&key=55e141"
+  },
+  {
+    "tokenName": "Downald Trump",
+    "tokenTicker": "$downald",
+    "tokenAddress": "Hyqg3DUhDQSSEGTAQBfSTDes7VgDRpXUtLfKXy6Bpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hyqg3DUhDQSSEGTAQBfSTDes7VgDRpXUtLfKXy6Bpump.png?size=lg&key=c33359"
+  },
+  {
+    "tokenName": "ANKHA Cleopatra Cat",
+    "tokenTicker": "ANKHA",
+    "tokenAddress": "A2Qb7iwxvUT6JEPyZH6eLAWSLBZ5H2x1KWPfHES3pump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A2Qb7iwxvUT6JEPyZH6eLAWSLBZ5H2x1KWPfHES3pump.png?size=lg&key=9e6109"
+  },
+  {
+    "tokenName": "MAGA MEME",
+    "tokenTicker": "MAGAMEME",
+    "tokenAddress": "Co1QB1ouWaRjBa9khTsAj3GAXBgbWgPS5NUA8qk9Ywh5",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Co1QB1ouWaRjBa9khTsAj3GAXBgbWgPS5NUA8qk9Ywh5.png?size=lg&key=b326f8"
+  },
+  {
+    "tokenName": "doodle doods",
+    "tokenTicker": "DOOD",
+    "tokenAddress": "AWjxDrNuhoAp96KFTc5fdVRciKajNpxK8PAGyoybpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AWjxDrNuhoAp96KFTc5fdVRciKajNpxK8PAGyoybpump.png?size=lg&key=ae7084"
+  },
+  {
+    "tokenName": "Landwolf",
+    "tokenTicker": "WOLF",
+    "tokenAddress": "9ErMSFyhJuTjMPZh1zXt1fH6ubdCYQcNZnNu7oxXpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9ErMSFyhJuTjMPZh1zXt1fH6ubdCYQcNZnNu7oxXpump.png?size=lg&key=6ef90c"
+  },
+  {
+    "tokenName": "TateTrumpIggyPepe737RNT",
+    "tokenTicker": "RNT",
+    "tokenAddress": "65NexmiyC7g9rP7mzxVk91v7E5BHuJ2r2dDDxgeWpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/65NexmiyC7g9rP7mzxVk91v7E5BHuJ2r2dDDxgeWpump.png?size=lg&key=2f7457"
+  },
+  {
+    "tokenName": "reel nigga tremp",
+    "tokenTicker": "RNT",
+    "tokenAddress": "EbKgG4sSvmYNoS3na7Y8cBTembqKx9vCuyx624rQXr1c",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EbKgG4sSvmYNoS3na7Y8cBTembqKx9vCuyx624rQXr1c.png?size=lg&key=762be1"
+  },
+  {
+    "tokenName": "🔥∞",
+    "tokenTicker": "BURN",
+    "tokenAddress": "6p3bm6jbuDfQVbFGTM4abC2jYWLLSjcLRqGqLZ18YFoc",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6p3bm6jbuDfQVbFGTM4abC2jYWLLSjcLRqGqLZ18YFoc.png?size=lg&key=ee7f6e"
+  },
+  {
+    "tokenName": "Saudi Cat",
+    "tokenTicker": "SAUDICAT",
+    "tokenAddress": "5dwFEXReNJ3c3KsMHWuUUZX4itJPCBmuo1jEdohdxnVP",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5dwFEXReNJ3c3KsMHWuUUZX4itJPCBmuo1jEdohdxnVP.png?size=lg&key=c091ff"
+  },
+  {
+    "tokenName": "CORNDOG",
+    "tokenTicker": "CORNDOG",
+    "tokenAddress": "ZHsTYqTQMdmVEcCxjB1bcwwQXzEP7DD6ba7hT7ungyw",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ZHsTYqTQMdmVEcCxjB1bcwwQXzEP7DD6ba7hT7ungyw.png?size=lg&key=9f9362"
+  },
+  {
+    "tokenName": "Sexy Trump",
+    "tokenTicker": "SEXYTRUMP",
+    "tokenAddress": "FLEwyE9XkKQ7NEoZ7ZVVugYiV6Mz6ReVLxqZgMRrARJ5",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FLEwyE9XkKQ7NEoZ7ZVVugYiV6Mz6ReVLxqZgMRrARJ5.png?size=lg&key=ccde1e"
+  },
+  {
+    "tokenName": "Real Nigger Caitlyn",
+    "tokenTicker": "RNC",
+    "tokenAddress": "2mg2N4dFCdsXaA8YorCJEuvSqP72LhJcAHzNXJhXdTvv",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2mg2N4dFCdsXaA8YorCJEuvSqP72LhJcAHzNXJhXdTvv.png?size=lg&key=cafca5"
+  },
+  {
+    "tokenName": "MAGA AGAIN",
+    "tokenTicker": "MAGAA",
+    "tokenAddress": "AQWQoMJFia79RxDv3h7pj8kfXoUAQaU7JHyxMiEcyx1K",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AQWQoMJFia79RxDv3h7pj8kfXoUAQaU7JHyxMiEcyx1K.png?size=lg&key=b75b8a"
+  },
+  {
+    "tokenName": "Pumpkins",
+    "tokenTicker": "PUMPKINS",
+    "tokenAddress": "2KmuBAN1ncBW4Kpr2mtCLaUWjnoLWTfFevTe3M2N4g22",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2KmuBAN1ncBW4Kpr2mtCLaUWjnoLWTfFevTe3M2N4g22.png?size=lg&key=8f4ff0"
+  },
+  {
+    "tokenName": "Donald Trump JR’s Dog",
+    "tokenTicker": "BELLA",
+    "tokenAddress": "BvNwB51ZiL8krdQx1NwD2fPaWgCNkugjY6oKq7GpqgZj",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BvNwB51ZiL8krdQx1NwD2fPaWgCNkugjY6oKq7GpqgZj.png?size=lg&key=dae21e"
+  },
+  {
+    "tokenName": "Andei",
+    "tokenTicker": "Andei",
+    "tokenAddress": "FviYGy3M6BLHQwAmPGf83Qu8oep3mWU9TYhUuzuapump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FviYGy3M6BLHQwAmPGf83Qu8oep3mWU9TYhUuzuapump.png?size=lg&key=3548e6"
+  },
+  {
+    "tokenName": "Shina Inu",
+    "tokenTicker": "SHINA",
+    "tokenAddress": "XjSfXA8AMtbxSstjQ7QDhLDqBbg9bryKqpYfLkLT58N",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/XjSfXA8AMtbxSstjQ7QDhLDqBbg9bryKqpYfLkLT58N.png?size=lg&key=b5938c"
+  },
+  {
+    "tokenName": "Rich Tate",
+    "tokenTicker": "RichTate",
+    "tokenAddress": "2ZQRMFqsLeozMpEnMVhsi9tD62v8QfV1jRMTug4ZsFM7",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2ZQRMFqsLeozMpEnMVhsi9tD62v8QfV1jRMTug4ZsFM7.png?size=lg&key=88cd3c"
+  },
+  {
+    "tokenName": "OSAMA BIN LADEN",
+    "tokenTicker": "OBL",
+    "tokenAddress": "5m8BjzDKgVwm7yv9RDoxZkyLVP3TTXbNyvRe3TMVDzY8",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5m8BjzDKgVwm7yv9RDoxZkyLVP3TTXbNyvRe3TMVDzY8.png?size=lg&key=51525a"
+  },
+  {
+    "tokenName": "FLOCHI",
+    "tokenTicker": "FLOCHI",
+    "tokenAddress": "zvibWPF1GDRwEyZagYDwGZXN4CQpvdg5XwM5VxevAGU",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/zvibWPF1GDRwEyZagYDwGZXN4CQpvdg5XwM5VxevAGU.png?size=lg&key=2d382e"
+  },
+  {
+    "tokenName": "Misogynist",
+    "tokenTicker": "MISOG",
+    "tokenAddress": "4Zvk81PwVZgvT4pGnTFsEB2r6DV9nVaQKBeHYwfEpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4Zvk81PwVZgvT4pGnTFsEB2r6DV9nVaQKBeHYwfEpump.png?size=lg&key=f78913"
+  },
+  {
+    "tokenName": "MAKE SOLANA GREAT AGAIN",
+    "tokenTicker": "MSGA",
+    "tokenAddress": "9aDn2mZDyWgMJMRTsVxoFtfEYgpxrYd94W8CxWfDpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9aDn2mZDyWgMJMRTsVxoFtfEYgpxrYd94W8CxWfDpump.png?size=lg&key=11b8c4"
+  },
+  {
+    "tokenName": "trench nigger",
+    "tokenTicker": "trigger",
+    "tokenAddress": "6XAWpa4tybqJ2ASHR724VHTPiXBWLFfzfzbPG8dJpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6XAWpa4tybqJ2ASHR724VHTPiXBWLFfzfzbPG8dJpump.png?size=lg&key=4fba05"
+  },
+  {
+    "tokenName": "yogi",
+    "tokenTicker": "yogi",
+    "tokenAddress": "59T3dRJabZRVkFo1AVCzr7AXKoDMfj7r8Bt5v63Hpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/59T3dRJabZRVkFo1AVCzr7AXKoDMfj7r8Bt5v63Hpump.png?size=lg&key=a2fcf3"
+  },
+  {
+    "tokenName": "MAGA AGAIN",
+    "tokenTicker": "MAGAA",
+    "tokenAddress": "8UtjAmZqqTD5x835ZzyxfH2PR7fEsWJEvX5SeRiRpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8UtjAmZqqTD5x835ZzyxfH2PR7fEsWJEvX5SeRiRpump.png?size=lg&key=cd1f00"
+  },
+  {
+    "tokenName": "EscapeTheMatrix",
+    "tokenTicker": "MATRIX",
+    "tokenAddress": "BSrXNDeS4XxGQ1w3ewMK5NYQ2WohPPeh6F5EQKgNpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BSrXNDeS4XxGQ1w3ewMK5NYQ2WohPPeh6F5EQKgNpump.png?size=lg&key=2a9311"
   }
 ]

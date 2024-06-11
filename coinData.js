@@ -55,7 +55,7 @@ function generateSocialLinks(socials) {
 // Define the emoji based on the type
 const getTypeWithEmoji = (type) => {
     if (type === 'Upcoming Image') {
-        return `🔵🔵🔵 *Info Update* 🔵🔵🔵`;
+        return `🔵🔵🔵 *Dex Paid* 🔵🔵🔵`;
     } else if (type === 'Image Added') {
         return `🟢🟢🟢 *${escapeMarkdownV2(type)}* 🟢🟢🟢`;
     }

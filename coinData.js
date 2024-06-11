@@ -63,8 +63,8 @@ const getTypeWithEmoji = (type) => {
     return `*${escapeMarkdownV2(type)}*`; // Fallback if the type doesn't match
 };
 
-const getPumpFun = (pumpFun) => {
-    if (pumpFun) {
+const getPumpFun = (pumpFun, tokenAddress) => {
+    if (pumpFun || tokenAddress.incluces('pump')) {
         return `\n🚀🚀🚀  *PUMP FUN*  🚀🚀🚀`;
     }
     return '';
@@ -130,7 +130,7 @@ class CoinData {
         const socialLinks = generateSocialLinks(data.socials);
         const separator = socialLinks ? `${socialLinks}` : '';
         return `
-${getTypeWithEmoji(this.type)}${getPumpFun(data.pumpfun)}
+${getTypeWithEmoji(this.type)}${getPumpFun(data.pumpfun, data.tokenAddress)}
 *Name:* ${escapeMarkdownV2(data.tokenName)}
 *Ticker:* ${escapeMarkdownV2(data.tokenTicker)}
 *MC:* ${escapeMarkdownV2(formatNumber(data.marketCap))}

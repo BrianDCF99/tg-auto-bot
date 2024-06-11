@@ -1353,5 +1353,34 @@
   "G2FL3yQ6KnCkE2RKGeFPPZHN44vei2vUrBjVzJVW3ivP",
   "9Vjs7mSHtBTSKgeAWzFmF9MCNUXr1aMyoUoXbqmmmTV8",
   "3VSNBHXPpwgWtjjYjtwpQYJzBGk9tzzK9V7u8CXvpump",
-  "FbmMuKvCjoksyijARmNTLUpeKqiuZgBZ956oJ8GCfMDu"
+  "FbmMuKvCjoksyijARmNTLUpeKqiuZgBZ956oJ8GCfMDu",
+  "GPHcjQ3H1umPvjz5pxAGvVwPettXm7d5EgCLsMUvpump",
+  "9tcAetNPs4euLmZmjo1CcvYkVuckSCnYXPUW7aWCDBQ3",
+  "DJavaA16c7pnT1weTbzEeqRcNMvTKrSDQuiYLBfopump",
+  {
+    "tokenName": "degen.bot",
+    "tokenTicker": "DEGENBOT",
+    "tokenAddress": "GPHcjQ3H1umPvjz5pxAGvVwPettXm7d5EgCLsMUvpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GPHcjQ3H1umPvjz5pxAGvVwPettXm7d5EgCLsMUvpump.png?size=lg&key=08d895"
+  },
+  {
+    "tokenName": "LANDWOLF BY MATT FURIE",
+    "tokenTicker": "LANDWOLF ",
+    "tokenAddress": "9tcAetNPs4euLmZmjo1CcvYkVuckSCnYXPUW7aWCDBQ3",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9tcAetNPs4euLmZmjo1CcvYkVuckSCnYXPUW7aWCDBQ3.png?size=lg&key=3f9cb9"
+  },
+  {
+    "tokenName": "DRIP",
+    "tokenTicker": "DRIP",
+    "tokenAddress": "DJavaA16c7pnT1weTbzEeqRcNMvTKrSDQuiYLBfopump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DJavaA16c7pnT1weTbzEeqRcNMvTKrSDQuiYLBfopump.png?size=lg&key=08fffe"
+  },
+  "G4CS6rBBnUq4CxvFwDE6JYVKtGMnead2K1yyn1Upqq6V",
+  "CVG7TonFtT3NrwbpcJvktu3veVnx6S7dYL6PLqjJUUqY",
+  "77XBpoEUwCSbX7dR7ws2RnTbSExZN3BawvEjkCWnJQSy",
+  "DMM5BTtmg24CJYxpfHYaYRKNz579D6GxjdazAMbwpump",
+  "5UvApJFWp3b9QydXKX9W9Xw1NjBoeviaPDKMZqYeCnfw",
+  "3qqt5TDjW7B2MEXWkLLmhTQNft2BNRqcnz6d41Unpump",
+  "BFiT5ASiDiZ3gTM35tf47opjPPyPgMoTUoqQUFy7pump",
+  "BRB4E9EP7gA1PNRADYMa5KrgANKAenHMdW6SKRAVsuWF"
 ]

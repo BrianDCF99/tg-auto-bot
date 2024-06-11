@@ -36,12 +36,7 @@ console.log('Bot is starting...');
 
 // Handle all messages to track users
 bot.on('message', (ctx) => {
-    users.add(ctx.from.id);
-    if (ctx.chat && ctx.chat.id) {
-        chatIds.add(ctx.chat.id);
-    }
-    saveData();
-    console.log(`User ${ctx.from.id} added. Chat ${ctx.chat.id} added.`);
+    console.log(`User ${ctx.from.id} sent a message in chat ${ctx.chat.id}`);
 });
 
 // Create instances of CoinData
@@ -55,12 +50,6 @@ const upcomingImagesUpdater = new DataUpdater('https://degenautobot.xyz/dex', '.
 // Handle the /start command
 bot.command('start', async (ctx) => {
     try {
-        users.add(ctx.from.id);
-        if (ctx.chat && ctx.chat.id) {
-            chatIds.add(ctx.chat.id);
-        }
-        saveData();
-
         console.log(`Received /start command from user ${ctx.from.id}`);
 
         const welcomeMessage = `
@@ -120,4 +109,3 @@ console.log('Bot has started and is now listening for commands...');
 
 // Start the bot
 bot.start().catch(console.error);
-

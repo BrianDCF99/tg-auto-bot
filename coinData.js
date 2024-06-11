@@ -1,4 +1,5 @@
 const fs = require('fs');
+const axios = require('axios');
 const { InputFile } = require('grammy');
 
 // Function to format numbers
@@ -64,7 +65,7 @@ const getTypeWithEmoji = (type) => {
 };
 
 const getPumpFun = (pumpFun, tokenAddress) => {
-    if (pumpFun || tokenAddress.incluces('pump')) {
+    if (pumpFun) {
         return `\n🚀🚀🚀  *PUMP FUN*  🚀🚀🚀`;
     }
     return '';
@@ -88,12 +89,20 @@ const getBurn = (burn) => {
     }
 }
 
-const imgSrc = (imgURL) => {
-    if (imgURL === ""){
-     return './ImgNF.jpg';
+const imgSrc = async (imgURL) => {
+    if (!imgURL) {
+        return './ImgNF.jpg';
     }
-    return imgURL;
- };
+    try {
+        const response = await axios.head(imgURL);
+        if (response.status === 200) {
+            return imgURL;
+        }
+    } catch (error) {
+        console.error(`Error accessing image URL ${imgURL}:`, error);
+    }
+    return './ImgNF.jpg';
+};
 
 class CoinData {
     constructor(filePath, type) {
@@ -149,20 +158,21 @@ ${createSeparator()}
                 this.sentCoins.add(token.tokenAddress);
                 this.saveSentCoins();
 
-                
                 try {
                     for (const userId of userIds) {
                         // Send the image with caption
                         const caption = this.formatInfoMessage(token);
-                        const photo = imgSrc(token.img_url) === './ImgNF.jpg' ? new InputFile('./ImgNF.jpg') : imgSrc(token.img_url);
-                        try{
-                        await bot.api.sendPhoto(userId, photo, {
-                            caption,
-                            parse_mode: 'MarkdownV2',
-                            disable_web_page_preview: true,
-                        });
-                        }catch (toGrammyError) {
-                            console.error('Error broadcasting message:', error);
+                        const photoURL = await imgSrc(token.img_url);
+                        const photo = photoURL === './ImgNF.jpg' ? new InputFile(photoURL) : photoURL;
+
+                        try {
+                            await bot.api.sendPhoto(userId, photo, {
+                                caption,
+                                parse_mode: 'MarkdownV2',
+                                disable_web_page_preview: true,
+                            });
+                        } catch (toGrammyError) {
+                            console.error('Error broadcasting message:', toGrammyError);
                             await bot.api.sendPhoto(userId, new InputFile('./ImgNF.jpg'), {
                                 caption,
                                 parse_mode: 'MarkdownV2',

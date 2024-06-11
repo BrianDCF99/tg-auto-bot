@@ -317,5 +317,172 @@
   "9wDfaTg6Sqh1BGT4D85pq5KxkaHmFSYRun5EuDe2pump",
   "8QLsie1jcaWH5By2oeHjHGFXKUXCKLJPofapYWf5pump",
   "ExAoFbhEWcMTK5a8mVfftiyqv4W2uaRjinpFb7m5Wnii",
-  "7YwESonBd2sWv1hXfWuJdMkGd9EzoSeWNVrJmGwyBrEu"
+  "7YwESonBd2sWv1hXfWuJdMkGd9EzoSeWNVrJmGwyBrEu",
+  "33U2GRzmZPVcs3cUwq7EoRXmjYM9uB8S45PT561XSnHs",
+  "EnG3S5eYQG7zLHgjQnSuUr2nQDrGBfe5BEhkE7yuxcVc",
+  "47DU5ziSQETsQTUXkne2TePPTXajDP2PCMm81dHYFoG9",
+  "A7ny3RDD6uM6jSTuXbaCWEQbSrRYnjivVYRJNkBJNosG",
+  "E79JGtv9XoKmV4zhSBgZoFAqMpCJymjPh6Gum94bzPqt",
+  "87CwW2sf3QYieF11mkwd1BABtFnbmPzUQC4MqseCnfNG",
+  "Be4gzT4JUAB9yL4oRAkRTtNXN9ZanqhZaKwa6rsYpump",
+  "CHAN3rYGUHEkn4uNnF49SFQnZEde48C4MfRxbKpT5b5a",
+  "BAKEDmkxTHA1ikdfZNQL5G1Sb3ht3TD1UDWM7o7paPTe",
+  {
+    "tokenName": "BABY BRETT",
+    "tokenTicker": "BBrett",
+    "tokenAddress": "EnG3S5eYQG7zLHgjQnSuUr2nQDrGBfe5BEhkE7yuxcVc",
+    "img_url": "https://gateway.irys.xyz/VxwPXPQ0deCc6R3xIXPLe_OnPnqukowUtYLBQYFF-WA"
+  },
+  {
+    "tokenName": "BlackRock | The Cute",
+    "tokenTicker": "BKRK",
+    "tokenAddress": "A7ny3RDD6uM6jSTuXbaCWEQbSrRYnjivVYRJNkBJNosG",
+    "img_url": ""
+  },
+  "AVr2kms3W3tJzkpFjkb8gtChGaXVy9AoTznpyZzzWvMw",
+  "4REK3ZnZU9SeE3ipj2daPUa3A9vfiBvuHmghCcT1pump",
+  "BK98mAyChfhuhS2jwqgn6gbbCbunczYbH5ak5VTGw34x",
+  "3VSNBHXPpwgWtjjYjtwpQYJzBGk9tzzK9V7u8CXvpump",
+  "6Ke4SdsGfd8NDqUQe1qM8CX1de8SGcPwygW6qzdGvygM",
+  "ADVjrFVoMsK61yZoE7D43QrMQhb3NjFizzTc7sv2re6P",
+  "66Gjjcr4H8emYEJ83FfsHfcBhXibEWs3j8HEGWR7nyJv",
+  "8kHdRpdJ4J3a5VEuaHfyWX4cjBm6zbCJteCh6hzaTiu6",
+  "DB6r71KNRMgHRyXQk9EbTyTtXGsvXC6TyMznLFbtXPPP",
+  "BmpE2bwXum8Bx4bmvvMXStn4wXvEg2x1HpVh2Usa1FVK",
+  "3WERfVrdmcGthjvKSCqdriQwHonwYXrohycAYuRgfF8x",
+  "GyJmyjJCdrLvK5NrhUmtnVHjobTVe5wPWD3MjZ28YrMz",
+  "F8h5kMw8iP75u3iRSENDEbMg218xjb1x4nrXSfNq6xqC",
+  "XXXvsoEzns3YJn3QQZyXKcXcViD3UyApSFvcXXv5bnP",
+  "5HTKbyZX5fuyQY62YFTc4ZSjZLDw7UVwP1SoFLiTGqSD",
+  "HDNT4LTKDH1ftQZ799ck36VDS4eb9SdEiUjbFBuGc9H7",
+  "KQky1fpfn5DavNaXyd2sKfqqa3QeVCugHzt2Tripump",
+  "9Vjs7mSHtBTSKgeAWzFmF9MCNUXr1aMyoUoXbqmmmTV8",
+  "4vmsX7FqpUooFDvaU9GQH6mwHVe9SU84TGSyv1z783Ku",
+  "BKonG95cNovjheBxhjcowqhnFqZNV5myBg3UhaDtdhe",
+  "5xgZ4pbDSXG4iFUSGYh5mHtUZRR8VdusJsMszVdzpump",
+  {
+    "tokenName": "SAFEMOON",
+    "tokenTicker": "SAFEMOON",
+    "tokenAddress": "KQky1fpfn5DavNaXyd2sKfqqa3QeVCugHzt2Tripump",
+    "img_url": "https://gateway.irys.xyz/pth9Ab1irH299JMOptfcOx0uakpzEkCp4YwERK1aKuY"
+  },
+  {
+    "tokenName": "CRAB ON SOL!",
+    "tokenTicker": "$CSOL",
+    "tokenAddress": "9Vjs7mSHtBTSKgeAWzFmF9MCNUXr1aMyoUoXbqmmmTV8",
+    "img_url": "https://quicknode.quicknode-ipfs.com/ipfs/QmZJJZFCreiAs38enPXevMHtBehbXDrmL2uRQTAmjVHeqy"
+  },
+  {
+    "tokenName": "GONZO",
+    "tokenTicker": "GONZO",
+    "tokenAddress": "4vmsX7FqpUooFDvaU9GQH6mwHVe9SU84TGSyv1z783Ku",
+    "img_url": "https://white-decisive-ladybug-640.mypinata.cloud/ipfs/QmZmSsThQ5T3KywB1nQFxL2NLWfWMQA8qpgYber6v2pspK"
+  },
+  {
+    "tokenName": "PepePineApple ",
+    "tokenTicker": "$PEPEAP",
+    "tokenAddress": "BKonG95cNovjheBxhjcowqhnFqZNV5myBg3UhaDtdhe",
+    "img_url": "https://gateway.irys.xyz/JTXxqD9dLhi7u927a9TAk7Gwe9BIHkpebZBMCAaq9Ao"
+  },
+  {
+    "tokenName": "Hedz by Matt Furie",
+    "tokenTicker": "HEDZ",
+    "tokenAddress": "DB6r71KNRMgHRyXQk9EbTyTtXGsvXC6TyMznLFbtXPPP",
+    "img_url": "https://gateway.irys.xyz/LPc-zYRXvof7Nc2g1jBE2mRphGfBo8e_qArQPApNXyw"
+  },
+  {
+    "tokenName": "HustlersUniversiti",
+    "tokenTicker": "$HUSTLER",
+    "tokenAddress": "BmpE2bwXum8Bx4bmvvMXStn4wXvEg2x1HpVh2Usa1FVK",
+    "img_url": "https://gateway.irys.xyz/zS4waRyBzVfg1C1UY3vOO-RUBJpRoZaDZy_5BSMQqug"
+  },
+  {
+    "tokenName": "POPEWIFHAT",
+    "tokenTicker": "PWH",
+    "tokenAddress": "AVr2kms3W3tJzkpFjkb8gtChGaXVy9AoTznpyZzzWvMw",
+    "img_url": "https://ipfs.io/ipfs/QmUq7LnKckaJWRDU73bY68g1GmiA1MrpVooE2vGozTqExB"
+  },
+  {
+    "tokenName": "SLUGLORD",
+    "tokenTicker": "SLUG",
+    "tokenAddress": "5xgZ4pbDSXG4iFUSGYh5mHtUZRR8VdusJsMszVdzpump",
+    "img_url": "https://cf-ipfs.com/ipfs/QmWpWMZrcZnbZH2sTJbXhNV9K4aAj9sLTatnEZqWioA27t"
+  },
+  {
+    "tokenName": "PEPE ANDY BRETT LANDWOLF",
+    "tokenTicker": "PABL FURIE",
+    "tokenAddress": "3WERfVrdmcGthjvKSCqdriQwHonwYXrohycAYuRgfF8x",
+    "img_url": "https://i.ibb.co/bF35SCP/furie-logo.png"
+  },
+  "DTrXHBUvkFRRSQAESeWcWyUQ9i9YGHUg9ECQFA18ijh9",
+  "D6yTLnxWaaBrboCvRKSzxDqhm7613E9DJjBzBGbfQvE9",
+  "6PsJj8fBGeVTsB8Wwc4M5Q5fb8zDmCauWtgYn6HHr123",
+  "DJRBXoayywJbNieWhxbjJD8ynYk8e8JynErpBPPwgygs",
+  "FGrCJZdmnZWLau2A75TeGoTwaGf6bygANLw2v1KcHe7j",
+  "9ah6HinknpkMRyDcYKKH1nrrazwkh4ryuSHrcGod875x",
+  "FR97pmdhuGE2umAh8oWSozkz4jXt8ZBiKqqycspCwf2k",
+  "FSAm2e8KcMejW6RX2Ray4ztsofs7xM1PQdfbJAUdp54t",
+  "4musb6HKkukug2AzhJiRejbHbeLS2SpLH6REoMPJEi2D",
+  {
+    "tokenName": "Fresh Pool",
+    "tokenTicker": "FRESHPOOL",
+    "tokenAddress": "6PsJj8fBGeVTsB8Wwc4M5Q5fb8zDmCauWtgYn6HHr123",
+    "img_url": ""
+  },
+  {
+    "tokenName": "iPhone 16",
+    "tokenTicker": "iPhone16",
+    "tokenAddress": "DJRBXoayywJbNieWhxbjJD8ynYk8e8JynErpBPPwgygs",
+    "img_url": "https://gateway.irys.xyz/-KQ9YFZiCiKXMsDWUCaTmgpioaQVQczalv6S1Kohxcw"
+  },
+  {
+    "tokenName": "LUGLORD",
+    "tokenTicker": "LUGLORD",
+    "tokenAddress": "FGrCJZdmnZWLau2A75TeGoTwaGf6bygANLw2v1KcHe7j",
+    "img_url": "https://gateway.irys.xyz/c9YAXO6tAkVuk7NNyYbdL8J7UQAgaMAv3htE4xhd3IE"
+  },
+  {
+    "tokenName": "Diamond Hands Dodos 🦤💎🚀",
+    "tokenTicker": "DHD",
+    "tokenAddress": "9ah6HinknpkMRyDcYKKH1nrrazwkh4ryuSHrcGod875x",
+    "img_url": ""
+  },
+  {
+    "tokenName": "Donald Trump",
+    "tokenTicker": "Trump",
+    "tokenAddress": "FR97pmdhuGE2umAh8oWSozkz4jXt8ZBiKqqycspCwf2k",
+    "img_url": "https://arweave.net/ERSRwgqUSeuYAGrw5951AGyV_Z-3GM32hayC5ek9lVE"
+  },
+  {
+    "tokenName": "Turbo",
+    "tokenTicker": "TURBO",
+    "tokenAddress": "FSAm2e8KcMejW6RX2Ray4ztsofs7xM1PQdfbJAUdp54t",
+    "img_url": "https://turbosol.vip/logo.png"
+  },
+  {
+    "tokenName": "ROARING KITTY",
+    "tokenTicker": "ROARKITTY",
+    "tokenAddress": "4musb6HKkukug2AzhJiRejbHbeLS2SpLH6REoMPJEi2D",
+    "img_url": "https://arweave.net/j5QkuVNQoSMsYnlhsRIJ-5ru9mA1VCaLPCbgiGltDu8"
+  },
+  "8BYHtF8NFz4VRHngcb1GDzMyp5X3xdk1FJ53VDsBD76w",
+  "CYGN7QfqCHw7aCYb7eTS1KGQV4kxt2t35GsNtJ2iwmMv",
+  "Ax38oGM7G85btT1WptSFUpJgdLpn5MZjuYDrnx4J7vFS",
+  "AYgw6k8ZzjkmTMAqrV8hbBe53uM8CrWwcbHuk5RMh6Qt",
+  "8zn8GuHySYDivguJGewe58MYevcwzM6KfWrQGCF4pump",
+  "E8NWCZ2KHrWA6fxfNdo5mVvgCkgJR2H6SbLKjy6zUoYK",
+  "s1DrjbntPwVR5RTm5Ctk9M7NDP7jyzshHZ77sQWGfYJ",
+  "H7Y2c14EWw69tCw25raSTPSG5LDt7qySEZhRdFW2hZFP",
+  "BAKEDSa8jjEoU5RAy8nRoWiMDKpCap9dewEFZkgVCUQ5",
+  "CPVGR9s74hEq4T9hNYy28bKUAJdHYjYCTd9Sb46bmTqx",
+  "H3qJbBnPSADL3rRxTNjVx5n1mMFNzVpfSeaGbTTFrte4",
+  "3GJmpyAnYcsJh8QLigxvKCTMByDbjFQTJLsMcB5u2Yq5",
+  "HjpaSPsN7aGp46ouUPEejj7JWDjgLxbJxW1nQtFT1uCy",
+  "46x9aCZ6Bad567mJeGVz5gyNbuiRTx6qJHEczdVbpump",
+  "Doy5dWK8joxzntubAKnDvZcptLgkSocSkeRxGiBVpump",
+  "HWoMTZXqMRWjCXU5a2VmN86aN54FndQ6MKojVtetpump",
+  "FbmMuKvCjoksyijARmNTLUpeKqiuZgBZ956oJ8GCfMDu",
+  "3T5319aPmdf5CJob4XHPwHR1gxB9R614HHQZhqY3HmQV",
+  "BNXawcznm9zxqh6AuLSoxchFke7qaDs1VX35n7RtphEp",
+  "5TdKAsaPHGXseELRbSZZkL9v69jKn8qkuqXhdviHpump"
 ]

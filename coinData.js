@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { InputFile } = require('grammy');
 
 // Function to format numbers
 function formatNumber(num) {
@@ -80,22 +81,20 @@ const getMintFreeze = (mintFreeze) => {
 const getBurn = (burn) => {
     if (burn === 'yes') {
         return `\nLiquidity Burned: ✅`;
-    } else if( burn === 'na'){
+    } else if (burn === 'na') {
         return '\nLiquidty Burned: N/A';
-
     } else {
         return '\nLiquidty Burned: ❌';
     }
 }
 
 const imgSrc = (imgURL) => {
-    if (imgURL.includes('gateway.pinata.cloud')) {
-        return imgURL.replace('gateway.pinata.cloud', 'cloudflare-ipfs.com');
-    } else if (imgURL.includes('cf-ipfs.com')) {
-        return imgURL.replace('cf-ipfs.com', 'cloudflare-ipfs.com');
+    if (imgURL === ""){
+     return './ImgNF.jpg';
     }
     return imgURL;
-};
+ };
+
 class CoinData {
     constructor(filePath, type) {
         this.filePath = filePath;
@@ -150,15 +149,26 @@ ${createSeparator()}
                 this.sentCoins.add(token.tokenAddress);
                 this.saveSentCoins();
 
+                
                 try {
                     for (const userId of userIds) {
                         // Send the image with caption
                         const caption = this.formatInfoMessage(token);
-                        await bot.api.sendPhoto(userId, imgSrc(token.img_url), {
+                        const photo = imgSrc(token.img_url) === './ImgNF.jpg' ? new InputFile('./ImgNF.jpg') : imgSrc(token.img_url);
+                        try{
+                        await bot.api.sendPhoto(userId, photo, {
                             caption,
                             parse_mode: 'MarkdownV2',
                             disable_web_page_preview: true,
                         });
+                        }catch (toGrammyError) {
+                            console.error('Error broadcasting message:', error);
+                            await bot.api.sendPhoto(userId, new InputFile('./ImgNF.jpg'), {
+                                caption,
+                                parse_mode: 'MarkdownV2',
+                                disable_web_page_preview: true,
+                            });
+                        }
                     }
                 } catch (error) {
                     console.error('Error broadcasting message:', error);

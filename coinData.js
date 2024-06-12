@@ -90,7 +90,7 @@ const getBurn = (burn) => {
 }
 
 const imgSrc = async (imgURL) => {
-    if (!imgURL) {
+    if (!imgURL || imgURL === '') {
         return './ImgNF.jpg';
     }
     try {
@@ -172,7 +172,7 @@ ${createSeparator()}
                                 disable_web_page_preview: true,
                             });
                         } catch (toGrammyError) {
-                            console.error('Error broadcasting message:', toGrammyError);
+                            console.error(`Error broadcasting message to user ${userId}:`, toGrammyError.message);
                             await bot.api.sendPhoto(userId, new InputFile('./ImgNF.jpg'), {
                                 caption,
                                 parse_mode: 'MarkdownV2',
@@ -181,7 +181,7 @@ ${createSeparator()}
                         }
                     }
                 } catch (error) {
-                    console.error('Error broadcasting message:', error);
+                    console.error(`Error broadcasting message for token ${token.tokenAddress}:`, error.message);
                 }
             }
         }

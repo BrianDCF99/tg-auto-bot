@@ -1382,5 +1382,193 @@
   "5UvApJFWp3b9QydXKX9W9Xw1NjBoeviaPDKMZqYeCnfw",
   "3qqt5TDjW7B2MEXWkLLmhTQNft2BNRqcnz6d41Unpump",
   "BFiT5ASiDiZ3gTM35tf47opjPPyPgMoTUoqQUFy7pump",
-  "BRB4E9EP7gA1PNRADYMa5KrgANKAenHMdW6SKRAVsuWF"
+  "BRB4E9EP7gA1PNRADYMa5KrgANKAenHMdW6SKRAVsuWF",
+  "7Zw2RxKwVjt8F3TKaARKpTTA2TQdP6gGWDBzR8VRU8TD",
+  "25hysUhwa16xPf3BdRset75s3kpbbKMuy4zBKFunahhW",
+  "BS8EjKS7WVsqyRM9cn8NEMzGU3YLiY4yPCsMMwgBRvWU",
+  "Hw3abW2AqtdwmJTCo8FaA9JWj5oAHP4sWyCMAZsRstZA",
+  "FyHtoRfSo5ua8XDtLXNg5HJKCnHKHKqDQfpxv2FTbiVa",
+  "612PrU95aBMpg2ww3kzeCWS7JxcxwSyFTtzSxmR86Bdp",
+  {
+    "tokenName": "Khloé Kardashian",
+    "tokenTicker": "HIPS",
+    "tokenAddress": "G4CS6rBBnUq4CxvFwDE6JYVKtGMnead2K1yyn1Upqq6V",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G4CS6rBBnUq4CxvFwDE6JYVKtGMnead2K1yyn1Upqq6V.png?size=lg&key=bc24f4"
+  },
+  {
+    "tokenName": "CAREBEARS",
+    "tokenTicker": "$CAREBEARS",
+    "tokenAddress": "CVG7TonFtT3NrwbpcJvktu3veVnx6S7dYL6PLqjJUUqY",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CVG7TonFtT3NrwbpcJvktu3veVnx6S7dYL6PLqjJUUqY.png?size=lg&key=44f3c1"
+  },
+  {
+    "tokenName": "Hard Rock Nick",
+    "tokenTicker": "NICK",
+    "tokenAddress": "77XBpoEUwCSbX7dR7ws2RnTbSExZN3BawvEjkCWnJQSy",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/77XBpoEUwCSbX7dR7ws2RnTbSExZN3BawvEjkCWnJQSy.png?size=lg&key=5d9ea8"
+  },
+  {
+    "tokenName": "Only Men",
+    "tokenTicker": "OnlyMen",
+    "tokenAddress": "DMM5BTtmg24CJYxpfHYaYRKNz579D6GxjdazAMbwpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DMM5BTtmg24CJYxpfHYaYRKNz579D6GxjdazAMbwpump.png?size=lg&key=e13a82"
+  },
+  {
+    "tokenName": "Matt Furie by Matt Furie",
+    "tokenTicker": "matt",
+    "tokenAddress": "5UvApJFWp3b9QydXKX9W9Xw1NjBoeviaPDKMZqYeCnfw",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5UvApJFWp3b9QydXKX9W9Xw1NjBoeviaPDKMZqYeCnfw.png?size=lg&key=90355d"
+  },
+  {
+    "tokenName": "Pork Morty",
+    "tokenTicker": "PORTY",
+    "tokenAddress": "3qqt5TDjW7B2MEXWkLLmhTQNft2BNRqcnz6d41Unpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3qqt5TDjW7B2MEXWkLLmhTQNft2BNRqcnz6d41Unpump.png?size=lg&key=0a2b3b"
+  },
+  {
+    "tokenName": "BUTTSEX COIN",
+    "tokenTicker": "BUTTSEX",
+    "tokenAddress": "BFiT5ASiDiZ3gTM35tf47opjPPyPgMoTUoqQUFy7pump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BFiT5ASiDiZ3gTM35tf47opjPPyPgMoTUoqQUFy7pump.png?size=lg&key=ed0f24"
+  },
+  {
+    "tokenName": "solnarize",
+    "tokenTicker": "SRIZE",
+    "tokenAddress": "BRB4E9EP7gA1PNRADYMa5KrgANKAenHMdW6SKRAVsuWF",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BRB4E9EP7gA1PNRADYMa5KrgANKAenHMdW6SKRAVsuWF.png?size=lg&key=25eca4"
+  },
+  {
+    "tokenName": "Snowman Mewing",
+    "tokenTicker": "SNOW",
+    "tokenAddress": "7Zw2RxKwVjt8F3TKaARKpTTA2TQdP6gGWDBzR8VRU8TD",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7Zw2RxKwVjt8F3TKaARKpTTA2TQdP6gGWDBzR8VRU8TD.png?size=lg&key=c2ecbd"
+  },
+  {
+    "tokenName": "Bleppe",
+    "tokenTicker": "Bleppe",
+    "tokenAddress": "25hysUhwa16xPf3BdRset75s3kpbbKMuy4zBKFunahhW",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/25hysUhwa16xPf3BdRset75s3kpbbKMuy4zBKFunahhW.png?size=lg&key=e20aed"
+  },
+  {
+    "tokenName": "1 SOL",
+    "tokenTicker": "1",
+    "tokenAddress": "BS8EjKS7WVsqyRM9cn8NEMzGU3YLiY4yPCsMMwgBRvWU",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BS8EjKS7WVsqyRM9cn8NEMzGU3YLiY4yPCsMMwgBRvWU.png?size=lg&key=5e16fc"
+  },
+  {
+    "tokenName": "CAT ASS",
+    "tokenTicker": "CATASS",
+    "tokenAddress": "Hw3abW2AqtdwmJTCo8FaA9JWj5oAHP4sWyCMAZsRstZA",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hw3abW2AqtdwmJTCo8FaA9JWj5oAHP4sWyCMAZsRstZA.png?size=lg&key=b5ae9e"
+  },
+  {
+    "tokenName": "Biden Crime Family",
+    "tokenTicker": "BCF",
+    "tokenAddress": "FyHtoRfSo5ua8XDtLXNg5HJKCnHKHKqDQfpxv2FTbiVa",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FyHtoRfSo5ua8XDtLXNg5HJKCnHKHKqDQfpxv2FTbiVa.png?size=lg&key=b3cda3"
+  },
+  {
+    "tokenName": "Lena The Plug",
+    "tokenTicker": "LENA",
+    "tokenAddress": "612PrU95aBMpg2ww3kzeCWS7JxcxwSyFTtzSxmR86Bdp",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/612PrU95aBMpg2ww3kzeCWS7JxcxwSyFTtzSxmR86Bdp.png?size=lg&key=d51e7d"
+  },
+  "8j7WpFCk5QNg7tZPeMyp3BcUZ8qhspEGUb3c3iQV3KhU",
+  "BDj5rTBta5xKBW2fZNYEZrgP99S1KVRMB5mR4xnnihG8",
+  {
+    "tokenName": "tatewifhat",
+    "tokenTicker": "TIF",
+    "tokenAddress": "8j7WpFCk5QNg7tZPeMyp3BcUZ8qhspEGUb3c3iQV3KhU",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8j7WpFCk5QNg7tZPeMyp3BcUZ8qhspEGUb3c3iQV3KhU.png?size=lg&key=f78ff0"
+  },
+  {
+    "tokenName": "BULEI",
+    "tokenTicker": "BULEI",
+    "tokenAddress": "BDj5rTBta5xKBW2fZNYEZrgP99S1KVRMB5mR4xnnihG8",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BDj5rTBta5xKBW2fZNYEZrgP99S1KVRMB5mR4xnnihG8.png?size=lg&key=1e8fab"
+  },
+  "3yoLh7rweRkuZkKPL9y1frUaqsAFrgDWgaRYs4wnpump",
+  "hTQ4oJgBgKLuTBeGHyMqhPM65dD6LR3D96j6RomuA8V",
+  {
+    "tokenName": "BowlingAlleyScreenWenYouStrike",
+    "tokenTicker": "STRIKE",
+    "tokenAddress": "3yoLh7rweRkuZkKPL9y1frUaqsAFrgDWgaRYs4wnpump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3yoLh7rweRkuZkKPL9y1frUaqsAFrgDWgaRYs4wnpump.png?size=lg&key=d74bfb"
+  },
+  {
+    "tokenName": "Fart Fetish Club",
+    "tokenTicker": "FART",
+    "tokenAddress": "hTQ4oJgBgKLuTBeGHyMqhPM65dD6LR3D96j6RomuA8V",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/hTQ4oJgBgKLuTBeGHyMqhPM65dD6LR3D96j6RomuA8V.png?size=lg&key=489b5e"
+  },
+  "6845uRgHyzH2PPiTkTbc56FyPADKpT9wp6hBaS9epump",
+  "CXoquiYruEWtsQHasgzUZw7u9bb85thzKWaVnZmGwktw",
+  "EpGkgW8nxKJUHF7ZtEx8ZyuRTx4wcyBMSFttXSe56f4N",
+  "4rtzFAc1irgm45rmoe62uGWJey688Btf4aULt8kQEWYh",
+  {
+    "tokenName": "NoSolNoRace",
+    "tokenTicker": "NSNR",
+    "tokenAddress": "6845uRgHyzH2PPiTkTbc56FyPADKpT9wp6hBaS9epump",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6845uRgHyzH2PPiTkTbc56FyPADKpT9wp6hBaS9epump.png?size=lg&key=7d5cd0"
+  },
+  {
+    "tokenName": "Treem",
+    "tokenTicker": "TREEM",
+    "tokenAddress": "CXoquiYruEWtsQHasgzUZw7u9bb85thzKWaVnZmGwktw",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CXoquiYruEWtsQHasgzUZw7u9bb85thzKWaVnZmGwktw.png?size=lg&key=be2b34"
+  },
+  {
+    "tokenName": "PIKACHU",
+    "tokenTicker": "PIKACHU",
+    "tokenAddress": "EpGkgW8nxKJUHF7ZtEx8ZyuRTx4wcyBMSFttXSe56f4N",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EpGkgW8nxKJUHF7ZtEx8ZyuRTx4wcyBMSFttXSe56f4N.png?size=lg&key=6ff6a4"
+  },
+  {
+    "tokenName": "CUCK COIN",
+    "tokenTicker": "CUCK",
+    "tokenAddress": "4rtzFAc1irgm45rmoe62uGWJey688Btf4aULt8kQEWYh",
+    "img_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4rtzFAc1irgm45rmoe62uGWJey688Btf4aULt8kQEWYh.png?size=lg&key=f542a1"
+  },
+  "M51Yz7oekPHppbDnY2miQh1MEWKdMiuGbgzFy7s8z9t",
+  "2cefa1dSDqrEBaRDMgUfYq8nTkTbpKoKzX2nBoBUqCqg",
+  "7dWKxDjPBkw9MMqUrQJ43G7jZBqcPn3KsNtJh4hVZ91e",
+  "GNiNycQmiqrF7fDZPSyJXrk32tnT7ADqJZ1tyTxm27Rk",
+  "419okhawUVP69knbyg4SHMaTkBQ7MGg6Cu575i7yjZPw",
+  "471kMrBTCzMHdyS6zTrbyWixdHpj2Ls7N9W1xa5DJ3rs",
+  "8BJT1pk72r4GAEkyyrz5LXzieaG6UoBFeujioa7ppump",
+  "Gna8amXbFMkV2uWcNnTYkhPbp6fT8h2smvupgweuLKvJ",
+  "6wb3AwgCNrar5MXMxgCwuTNhLGVV5KwUwrstnpwstmQT",
+  "7xfVzkRa6ipYs8UvXC24VrsoiDAVFWqi7jNi5GjN4tpV",
+  "DyWJT6UodvcyUfYSVHVDeMN8qJMYHoxBt6M8makhpump",
+  "EceTNxT2WSLQyojWKL3WRNp4LtRf5B7qXBkZ9huWxUrH",
+  "FuA8z1C4mARimtVj9Zok3cZLsckhK1Q8TaDiizXQNrdv",
+  "3fYZwRTQ6Pp2UCDdDaubWoR5upgkozeg7GbfyT3ss4zc",
+  "J4CCGitnqc3i7F7FVEKpTthx5ZQSooAQTrcmSxsTpump",
+  "CmMuw76YWxgyBtbs35tPMAAQKh3gMbG2abdDAZktpump",
+  "2J5uSgqgarWoh7QDBmHSDA3d7UbfBKDZsdy1ypTSpump",
+  "4mdmZmjaSpViFGkA6fC3aoRwkcBZvZQvqgpcPZnQYQsG",
+  "EFn49aqYQXVXfjkeJgcF18AdnN59PkAN5Zzv5Taf4N8X",
+  "xN9Qd63mUYg7npanmdksmcqp3NQjTcGFQPTyq2F1TQC",
+  "R51rEfVdFXdRyKjF6hh8VyUTCAaWbeUJVuaTMNtpump",
+  "AYyUV9oJX1iZwcPvQK2GhMrKwWcuwmCjTMbjSqjQbSvG",
+  "AsKWGpE3zk2RjDEtCHLwSACjd5ysUt7XUiQ21C9gpump",
+  "BHQqpwaeV9ueQqHXGGpccQdPjzNdSEqFAECXBk6BgjR2",
+  "J1vjvXHWq9kwC863KgkDeU2o5kvgVG9qbRsFEB9gAcFf",
+  "Ghq5HcztvZKHjCVXx2ry2itjNap3w7G6tJN3Qcdapump",
+  "AYgw6k8ZzjkmTMAqrV8hbBe53uM8CrWwcbHuk5RMh6Qt",
+  "F7MTRMHpt4DLf3eXR8Ny2hqGyqqi8EaybSmKaRHhpump",
+  "Cve7p7X5fbjdm1jhyP21LQWkf44EJQZVVB3MgSp3pump",
+  "j5pwpr2mW2HEX26CawrzhSWvxUcx4QCcnm8rVoo7qBL",
+  "BqsyD4vMJYQy4PhTUNHd9NTHc3FBuNCUiDEWRjGvb66Q",
+  "761FHf95mQ1EzHDLU6jDiFBa85EU3dY5db2RFTZsHLny",
+  "AXoQWeoYmJEwyfdRKunc5fd3xDkNJH65G2emidCrpump",
+  "ESi1qVaGo1YJcRtqkBNW89v8o8KRgELxYpnR7SFwE9wQ",
+  "4WsoAhTxq59ENUqJM56xmQn3kVRrMuH1ss91sChVpump",
+  "4ixnLBbq4tkxEntnS5CUquwk1Zi38KhaotFoy1n3pump",
+  "5DX1VUCGPB8QhePvb3kSDbanquWRxK1EiZJuvjqppump",
+  "8HJvNJVT5dvfxtb4yH3i7Qoc3VDXgFFuEGfjHb97pump",
+  "ZTqvBkopBR5atmtJUtjaodEWf68BD4gajJ8MzoSo8hf",
+  "6dwGDfCSvwVS1PBp9KL6DY53X3AY4K8BQk5j4HA81AYK",
+  "B3LjzyTfvhnVVscB9xJf8xG4SZ3Tev6xeCCTjZrdWsCE",
+  "FrfoFeCu6YSmBQBBTXuuoSNLu7hwoHKATnrhAEnipump"
 ]
